@@ -18,8 +18,8 @@
 * [Java IO](note/java/Java IO.md)
 * [Java 并发](note/java/Java并发.md)
 * JVM
-  * [Java内存区域](note/java/Java内存区域.md)
-    * OOM产生的原因
+  * [1.Java内存区域](note/java/Java内存区域.md)
+  * [2.JVM垃圾回收](note/java/JVM垃圾回收.md)
 
 
 
