@@ -21,6 +21,7 @@
   * [1.Java内存区域](note/java/Java内存区域.md)
   * [2.JVM垃圾回收](note/java/JVM垃圾回收.md)
   * [3.JDK监控和故障处理工具](note/java/JDK监控和故障处理工具.md)
+  * 4.类文件结构[note/java/类文件结构.md]
 
 
 
