@@ -29,8 +29,8 @@
 
 ### Java并发编程
 
-+ [Java 并发基础总结](note/juc/Java 并发基础总结.md)
-+ [Java 并发进阶总结](note/juv/Java 并发进阶总结.md)
++ [Java 并发基础总结](note/juc/Java并发基础总结.md)
++ [Java 并发进阶总结](note/juv/Java并发进阶总结.md)
 
 ### 消息中间件
 
