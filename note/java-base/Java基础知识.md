@@ -81,7 +81,7 @@ num2 = 20
 
 **解析：**
 
-![](F:\spare\git\cs-inter\note\java\img\1.png)
+![](http://img.bcoder.top/2019.12.14.6/1.png)
 
 在swap方法中，a、b的值进行交换，并不会影响到 num1、num2。因为，a、b中的值，只是从 num1、num2 的复制过来的。也就是说，a、b相当于num1、num2 的副本，副本的内容无论怎么修改，都不会影响到原件本身。
 
@@ -112,7 +112,7 @@ num2 = 20
 
 **解析：**
 
-![](F:\spare\git\cs-inter\note\java\img\2.png)
+![](http://img.bcoder.top/2019.12.14.6/2.png)
 
 array 被初始化 arr 的拷贝也就是一个对象的引用，也就是说 array 和 arr 指向的时同一个数组对象。 因此，外部对引用对象的改变会反映到所对应的对象上。
 
@@ -157,11 +157,11 @@ s2:小李
 
 交换之前：
 
-![](F:\spare\git\cs-inter\note\java\img\3.png)
+![](http://img.bcoder.top/2019.12.14.6/3.png)
 
 交换之后：
 
-![](F:\spare\git\cs-inter\note\java\img\4.png)
+![](http://img.bcoder.top/2019.12.14.6/4.png)
 
 通过上面两张图可以很清晰的看出： **方法并没有改变存储在变量 s1 和 s2 中的对象引用。swap方法的参数x和y被初始化为两个对象引用的拷贝，这个方法交换的是这两个拷贝**
 
@@ -202,7 +202,7 @@ final关键字主要用在三个地方：变量、方法、类。
 
 ### Java异常类层次结构图
 
-![](F:\spare\git\cs-inter\note\java\img\5.png)
+![](http://img.bcoder.top/2019.12.14.6/5.png)
 
 
 
