@@ -29,8 +29,24 @@
 
 ### Java并发编程
 
++ [Java并发容器总结](note/juc/Java并发容器总结.md)
++ [Java线程池总结](note/juc/Java线程池总结.md)
++ [乐观锁与悲观锁](note/juc/乐观锁与悲观锁.md)
++ [Atomic原子类总结](note/juc/Atomic原子类总结.md)
++ [AQS原理及其同步组件总结](note/juc/AQS原理及其同步组件总结.md)
 + [Java 并发基础总结](note/juc/Java并发基础总结.md)
-+ [Java 并发进阶总结](note/juv/Java并发进阶总结.md)
++ [Java 并发进阶总结](note/juc/Java并发进阶总结.md)
+
+
+
+### MySQL
+
++ [MySQL总结](note/mysql/MySQL总结.md)
++ MySQL总结](note/mysql/MySQL总结.md)
+
+
+
+
 
 ### 消息中间件
 
@@ -59,9 +75,20 @@
   + [消息队列之Kafka协调服务ZooKeeper](note/mq/消息队列之Kafka协调服务ZooKeeper.md)
   + [消息队列之RocketMQ&Kafka事务实现](note/mq/消息队列之RocketMQ&Kafka事务实现.md)
 
+
+
 ### 经验论
 
 + [技术类问题](note/experience/技术类问题.md)
++ [博客参考](note/experience/博客参考.md)
+
+
+
+
+
+
+
+
 
 
 
