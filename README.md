@@ -42,9 +42,10 @@
 ### MySQL
 
 + [MySQL总结](note/mysql/MySQL总结.md)
-+ MySQL总结](note/mysql/MySQL总结.md)
++ [SQL语句执行过程](note/mysql/SQL语句执行过程.md)
++ [MySQL索引基础](note/mysql/MySQL索引基础.md)
 
-
++ [MySQL索引进阶](note/mysql/MySQL索引进阶.md)
 
 
 
