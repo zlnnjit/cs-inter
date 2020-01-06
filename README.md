@@ -36,6 +36,13 @@
 + [AQS原理及其同步组件总结](note/juc/AQS原理及其同步组件总结.md)
 + [Java 并发基础总结](note/juc/Java并发基础总结.md)
 + [Java 并发进阶总结](note/juc/Java并发进阶总结.md)
++ **Java并发课程记录**
+  
+  + [Java并发之可见性、原子性和有序性](note/juc/Java并发之可见性、原子性和有序性.md)
+  
+  + [Java并发之互斥锁](note/juc/Java并发之互斥锁.md)
+  
+    
 
 
 
@@ -44,7 +51,7 @@
 + [MySQL总结](note/mysql/MySQL总结.md)
 + [SQL语句执行过程](note/mysql/SQL语句执行过程.md)
 + [MySQL索引基础](note/mysql/MySQL索引基础.md)
-
++ [MySQL高性能优化规范建议](note/mysql/MySQL高性能优化规范建议.md)
 + [MySQL索引进阶](note/mysql/MySQL索引进阶.md)
 
 
