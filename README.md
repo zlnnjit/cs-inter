@@ -42,6 +42,10 @@
   
   + [Java并发之互斥锁](note/juc/Java并发之互斥锁.md)
   
+  + [Java并发之死锁](note/juc/Java并发之死锁.md)
+  
+  + [Java并发之通知等待](note/juc/Java并发之通知等待.md)
+  
     
 
 
