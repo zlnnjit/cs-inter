@@ -46,6 +46,10 @@
   
   + [Java并发之通知等待](note/juc/Java并发之通知等待.md)
   
+  + [Java并发之安全性、活跃性以及性能问题](note/juc/Java并发之安全性、活跃性以及性能问题.md)
+  
+  + [Java并发之管程](note/juc/Java并发之管程.md)
+  
     
 
 
