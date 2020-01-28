@@ -230,8 +230,7 @@ printf("hello world")
 
 ```java
 DemoService service = 初始化部分省略
-String message = 
-  service.sayHello("dubbo");
+String message = service.sayHello("dubbo");
 System.out.println(message);
 ```
 
