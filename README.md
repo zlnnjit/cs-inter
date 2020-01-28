@@ -96,19 +96,19 @@
   
   + [Java并发之ThreadLocal](note/juc/Java并发之ThreadLocal.md)
   
-  + [Java并发之Guarded Suspension 模式](note/juc/Java并发之Guarded Suspension 模式.md)
+  + [Java并发之Guarded Suspension 模式](note/juc/Java并发之Guarded-Suspension模式.md)
   
   + [Java并发之Balking模式](note/juc/Java并发之Balking模式.md)
   
   + [Java并发之Thread-Per-Message模式](note/juc/Java并发之Thread-Per-Message模式.md)
   
-  + [Java并发之Worker Thread模式](note/juc/Java并发之Worker Thread模式.md)
+  + [Java并发之Worker Thread模式](note/juc/Java并发之Worker-Thread模式.md)
   
   + [Java并发之两阶段终止模式](note/juc/Java并发之两阶段终止模式.md)
   
   + [Java并发之生产者-消费者模式](note/juc/Java并发之生产者-消费者模式.md)
   
-  + [Java并发之Guava RateLimiter](note/juc/Java并发之Guava RateLimiter.md)
+  + [Java并发之Guava RateLimiter](note/juc/Java并发之Guava-RateLimiter.md)
   
     
 
