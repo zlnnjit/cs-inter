@@ -110,6 +110,20 @@
   
   + [Java并发之Guava RateLimiter](note/juc/Java并发之Guava-RateLimiter.md)
   
+  + [Java并发之Netty](note/juc/Java并发之Netty.md)
+  
+  + [Java并发之Disruptor](note/juc/Java并发之Disruptor.md)
+  
+  + [Java并发之HiKariCP](note/juc/Java并发之HiKariCP.md)
+  
+  + [Java并发之Actor模型](note/juc/Java并发之Actor模型.md)
+  
+  + [Java并发之软件事务内存](note/juc/Java并发之软件事务内存.md)
+  
+  + [Java并发之协程](note/juc/Java并发之协程.md)
+  
+  + [Java并发之CSP模型](note/juc/Java并发之CSP模型.md)
+  
     
 
 ### MySQL
