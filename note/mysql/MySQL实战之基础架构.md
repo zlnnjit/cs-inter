@@ -160,7 +160,11 @@ ERROR 1142 (42000): SELECT command denied to user 'b'@'localhost' for table 'T'
 根据本文，可以了解到这些问题：
 
 1.MySQL的框架有几个组件, 各是什么作用?
+
 2.Server层和存储引擎层各是什么作用?
+
 3.you have an error in your SQL syntax 这个保存是在词法分析里还是在语法分析里报错?
+
 4.对于表的操作权限验证在哪里进行?
+
 5.执行器的执行查询语句的流程是什么样的?

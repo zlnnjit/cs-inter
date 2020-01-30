@@ -136,6 +136,8 @@
   + [MySQL实战之基础架构](note/mysql/MySQL实战之基础架构.md)
   + [MySQL实战之日志系统](note/mysql/MySQL实战之日志系统.md)
   + [MySQL实战之事务隔离](note/mysql/MySQL实战之事务隔离.md)
+  + [MySQL实战之索引(上)](note/mysql/MySQL实战之索引(上).md)
+  + [MySQL实战之索引(下)](note/mysql/MySQL实战之索引(下).md)
 
 
 
