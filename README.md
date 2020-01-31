@@ -138,6 +138,14 @@
   + [MySQL实战之事务隔离](note/mysql/MySQL实战之事务隔离.md)
   + [MySQL实战之索引(上)](note/mysql/MySQL实战之索引(上).md)
   + [MySQL实战之索引(下)](note/mysql/MySQL实战之索引(下).md)
+  + [MySQL实战之全局锁和表锁](note/mysql/MySQL实战之全局锁和表锁.md)
+  + [MySQL实战之行锁](note/mysql/MySQL实战之行锁.md)
+  + [MySQL实战之事务隔离原理](note/mysql/MySQL实战之事务隔离原理.md)
+  + [MySQL实战之普通索引和唯一索引](note/mysql/MySQL实战之普通索引和唯一索引.md)
+  + [MySQL实战之选择索引](note/mysql/MySQL实战之选择索引.md)
+  + [MySQL实战之给字符串加索引](note/mysql/MySQL实战之给字符串加索引.md)
+  + [MySQL实战之数据库偶发性变慢(刷盘问题)](note/mysql/MySQL实战之数据库偶发性变慢(刷盘问题).md)
+  + [MySQL实战之表数据删除](note/mysql/MySQL实战之表数据删除.md)
 
 
 
