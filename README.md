@@ -146,10 +146,19 @@
   + [MySQL实战之给字符串加索引](note/mysql/MySQL实战之给字符串加索引.md)
   + [MySQL实战之数据库偶发性变慢(刷盘问题)](note/mysql/MySQL实战之数据库偶发性变慢(刷盘问题).md)
   + [MySQL实战之表数据删除](note/mysql/MySQL实战之表数据删除.md)
+  + [MySQL实战之count(x)](note/mysql/MySQL实战之count(x).md)
+  + [MySQL实战之日志和索引问题总结扩展](note/mysql/MySQL实战之日志和索引问题总结扩展.md)
+  + [MySQL实战之order by](note/mysql/MySQL实战之orderby.md)
+  + [MySQL实战之正确地显示随机消息（临时表问题）](note/mysql/MySQL实战之正确地显示随机消息.md)
+  + [MySQL实战之SQL性能差异](note/mysql/MySQL实战之SQL性能差异.md)
+  + [MySQL实战之查询单行速度慢](note/mysql/MySQL实战之查询单行速度慢.md)
+  + [MySQL实战之幻读](note/mysql/MySQL实战之幻读.md)
+  + [MySQL实战之加锁规则](note/mysql/MySQL实战之加锁规则.md)
 
 
 
 ### 消息中间件
+
 + [消息队列总结](note/mq/消息队列总结.md)
 
 + [常用消息中间件对比](note/mq/常用消息中间对比.md)
