@@ -154,6 +154,16 @@
   + [MySQL实战之查询单行速度慢](note/mysql/MySQL实战之查询单行速度慢.md)
   + [MySQL实战之幻读](note/mysql/MySQL实战之幻读.md)
   + [MySQL实战之加锁规则](note/mysql/MySQL实战之加锁规则.md)
+  + [MySQL实战之如何提高性能](note/mysql/MySQL实战之提高性能.md)
+  + [MySQL实战之如何保证数据不丢失](note/mysql/MySQL实战之如何保证数据不丢失.md)
+  + [MySQL实战之如何保证主备一致](note/mysql/MySQL实战之如何保证主备一致.md)
+  + [MySQL实战之如何保证高可用](note/mysql/MySQL实战之如何保证高可用.md)
+  + [MySQL实战之备库延迟时间长解决方案](note/mysql/MySQL实战之备库延迟时间长解决方案.md)
+  + [MySQL实战之主库出问题的从库解决方案](note/mysql/MySQL实战之主库出问题的从库解决方案.md)
+
+
+
+
 
 
 
