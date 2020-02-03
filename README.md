@@ -160,6 +160,15 @@
   + [MySQL实战之如何保证高可用](note/mysql/MySQL实战之如何保证高可用.md)
   + [MySQL实战之备库延迟时间长解决方案](note/mysql/MySQL实战之备库延迟时间长解决方案.md)
   + [MySQL实战之主库出问题的从库解决方案](note/mysql/MySQL实战之主库出问题的从库解决方案.md)
+  + [MySQL实战之读写分离](note/mysql/MySQL实战之读写分离.md)
+  + [MySQL实战之如何判断数据库出问题](note/mysql/MySQL实战之如何判断数据库出问题.md)
+  + [MySQL实战之用动态的观点看加锁](note/mysql/MySQL实战之用动态的观点看加锁.md)
+  + [MySQL实战之误删数据后的解决思路](note/mysql/MySQL实战之误删数据后的解决思路.md)
+  + [MySQL实战之kill不掉分析](note/mysql/MySQL实战之kill不掉分析.md)
+  + [MySQL实战之大数据量查询对数据库服务器内存的影响](note/mysql/MySQL实战之大数据量查询对数据库服务器内存的影响.md)
+  + [MySQL实战之join](note/mysql/MySQL实战之join.md)
+  + [MySQL实战之join语句优化](note/mysql/MySQL实战之join语句优化.md)
+  + 未完待续......
 
 
 
