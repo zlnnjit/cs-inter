@@ -128,46 +128,86 @@
 
 ### MySQL
 + [MySQL总结](note/mysql/MySQL总结.md)
+
 + [SQL语句执行过程](note/mysql/SQL语句执行过程.md)
+
 + [MySQL索引基础](note/mysql/MySQL索引基础.md)
+
 + [MySQL高性能优化规范建议](note/mysql/MySQL高性能优化规范建议.md)
+
 + [MySQL索引进阶](note/mysql/MySQL索引进阶.md)
+
 + **MySQL实战课程记录**
   + [MySQL实战之基础架构](note/mysql/MySQL实战之基础架构.md)
+
   + [MySQL实战之日志系统](note/mysql/MySQL实战之日志系统.md)
+  
   + [MySQL实战之事务隔离](note/mysql/MySQL实战之事务隔离.md)
+  
   + [MySQL实战之索引(上)](note/mysql/MySQL实战之索引(上).md)
+  
   + [MySQL实战之索引(下)](note/mysql/MySQL实战之索引(下).md)
+  
   + [MySQL实战之全局锁和表锁](note/mysql/MySQL实战之全局锁和表锁.md)
+  
   + [MySQL实战之行锁](note/mysql/MySQL实战之行锁.md)
+  
   + [MySQL实战之事务隔离原理](note/mysql/MySQL实战之事务隔离原理.md)
+  
   + [MySQL实战之普通索引和唯一索引](note/mysql/MySQL实战之普通索引和唯一索引.md)
+  
   + [MySQL实战之选择索引](note/mysql/MySQL实战之选择索引.md)
+  
   + [MySQL实战之给字符串加索引](note/mysql/MySQL实战之给字符串加索引.md)
+  
   + [MySQL实战之数据库偶发性变慢(刷盘问题)](note/mysql/MySQL实战之数据库偶发性变慢(刷盘问题).md)
+  
   + [MySQL实战之表数据删除](note/mysql/MySQL实战之表数据删除.md)
+  
   + [MySQL实战之count(x)](note/mysql/MySQL实战之count(x).md)
+  
   + [MySQL实战之日志和索引问题总结扩展](note/mysql/MySQL实战之日志和索引问题总结扩展.md)
+  
   + [MySQL实战之order by](note/mysql/MySQL实战之orderby.md)
+  
   + [MySQL实战之正确地显示随机消息（临时表问题）](note/mysql/MySQL实战之正确地显示随机消息.md)
+  
   + [MySQL实战之SQL性能差异](note/mysql/MySQL实战之SQL性能差异.md)
+  
   + [MySQL实战之查询单行速度慢](note/mysql/MySQL实战之查询单行速度慢.md)
+  
   + [MySQL实战之幻读](note/mysql/MySQL实战之幻读.md)
+  
   + [MySQL实战之加锁规则](note/mysql/MySQL实战之加锁规则.md)
+  
   + [MySQL实战之如何提高性能](note/mysql/MySQL实战之提高性能.md)
+  
   + [MySQL实战之如何保证数据不丢失](note/mysql/MySQL实战之如何保证数据不丢失.md)
+  
   + [MySQL实战之如何保证主备一致](note/mysql/MySQL实战之如何保证主备一致.md)
+  
   + [MySQL实战之如何保证高可用](note/mysql/MySQL实战之如何保证高可用.md)
+  
   + [MySQL实战之备库延迟时间长解决方案](note/mysql/MySQL实战之备库延迟时间长解决方案.md)
+  
   + [MySQL实战之主库出问题的从库解决方案](note/mysql/MySQL实战之主库出问题的从库解决方案.md)
+  
   + [MySQL实战之读写分离](note/mysql/MySQL实战之读写分离.md)
+  
   + [MySQL实战之如何判断数据库出问题](note/mysql/MySQL实战之如何判断数据库出问题.md)
+  
   + [MySQL实战之用动态的观点看加锁](note/mysql/MySQL实战之用动态的观点看加锁.md)
+  
   + [MySQL实战之误删数据后的解决思路](note/mysql/MySQL实战之误删数据后的解决思路.md)
+  
   + [MySQL实战之kill不掉分析](note/mysql/MySQL实战之kill不掉分析.md)
+  
   + [MySQL实战之大数据量查询对数据库服务器内存的影响](note/mysql/MySQL实战之大数据量查询对数据库服务器内存的影响.md)
+  
   + [MySQL实战之join](note/mysql/MySQL实战之join.md)
+  
   + [MySQL实战之join语句优化](note/mysql/MySQL实战之join语句优化.md)
+  
   + 未完待续......
 
 
