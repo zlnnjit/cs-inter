@@ -1,4 +1,4 @@
-> 引用[他人]([http://www.tianxiaobo.com/2018/01/18/%E8%87%aa%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0%E7%9A%84-Spring-IOC-%E5%92%8C-AOP-%E4%B8%8A%E7%AF%87/#comments](http://www.tianxiaobo.com/2018/01/18/自己动手实现的-Spring-IOC-和-AOP-上篇/#comments))文章并重新实践了一下。
+> 引用[他人](http://www.tianxiaobo.com/2018/01/18/自己动手实现的-Spring-IOC-和-AOP-上篇)文章并重新实践了一下。
 
 <!--more-->
 
@@ -187,17 +187,133 @@ public class SimpleIOCTest {
 
 ![](http://img.bcoder.top/2020.02.04.1/1.png)
 
+### 简单的 AOP 实现
+
+AOP 的实现是基于代理模式的，这一点相信大家应该都知道。代理模式是AOP实现的基础，代理模式不难理解，这里就不花篇幅介绍了。在介绍 AOP 的实现步骤之前，先引入 Spring AOP 中的一些概念，接下来我们会用到这些概念。
+
+#### 通知（Advice）
+
+通知定义了要织入目标对象的逻辑，以及执行时机。
+Spring 中对应了 5 种不同类型的通知：
+
++ 前置通知（Before）：在目标方法执行前，执行通知
++ 后置通知（After）：在目标方法执行后，执行通知，此时不关系目标方法返回的结果是什么
++ 返回通知（After-returning）：在目标方法执行后，执行通知
++ 异常通知（After-throwing）：在目标方法抛出异常后执行通知
++ 环绕通知（Around）: 目标方法被通知包裹，通知在目标方法执行前和执行后都被会调用
+
+#### 切点（Pointcut）
+
+如果说通知定义了在何时执行通知，那么切点就定义了在何处执行通知。所以切点的作用就是
+通过匹配规则查找合适的连接点（Joinpoint），AOP 会在这些连接点上织入通知。
+
+#### 切面（Aspect）
+
+切面包含了通知和切点，通知和切点共同定义了切面是什么，在何时，何处执行切面逻辑。
+
+说完概念，接下来我们来说说简单 AOP 实现的步骤。这里 AOP 是基于 JDK 动态代理实现的，只需3步即可完成：
+
+1. 定义一个包含切面逻辑的对象，这里假设叫 logMethodInvocation
+2. 定义一个 Advice 对象（实现了 InvocationHandler 接口），并将上面的 logMethodInvocation 和 目标对象传入
+3. 将上面的 Adivce 对象和目标对象传给 JDK 动态代理方法，为目标对象生成代理
+
+上面步骤比较简单，不过在实现过程中，还是有一些难度的，这里要引入一些辅助接口才能实现。接下来就来介绍一下简单 AOP 的代码结构：
+
+```
+MethodInvocation 接口  // 实现类包含了切面逻辑，如上面的 logMethodInvocation
+Advice 接口        // 继承了 InvocationHandler 接口
+BeforeAdvice 类    // 实现了 Advice 接口，是一个前置通知
+SimpleAOP 类       // 生成代理类
+SimpleAOPTest      // SimpleAOP 从测试类
+HelloService 接口   // 目标对象接口
+HelloServiceImpl   // 目标对象
+```
+
+MethodInvocation 接口代码：
+
+```java
+public interface MethodInvocation {
+    void invoke();
+}
+```
+
+Advice 接口代码：
+
+```java
+public interface Advice extends InvocationHandler {}
+```
+
+BeforeAdvice 实现代码:
+
+```java
+public class BeforeAdvice implements Advice {
+    private Object bean;
+    private MethodInvocation methodInvocation;
+
+    public BeforeAdvice(Object bean, MethodInvocation methodInvocation) {
+        this.bean = bean;
+        this.methodInvocation = methodInvocation;
+    }
+
+    @Override
+    public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+        // 在目标方法执行前调用通知
+        methodInvocation.invoke();
+        return method.invoke(bean, args);
+    }
+}
+```
 
 
 
+SimpleAOP 实现代码：
+
+```java
+public class SimpleAOP {
+    public static Object getProxy(Object bean, Advice advice) {
+        return Proxy.newProxyInstance(SimpleAOP.class.getClassLoader(), 
+                bean.getClass().getInterfaces(), advice);
+    }
+}
+```
+
+HelloService 接口，及其实现类代码：
+
+```java
+public interface HelloService {
+    void sayHelloWorld();
+}
+
+public class HelloServiceImpl implements HelloService {
+    @Override
+    public void sayHelloWorld() {
+        System.out.println("hello world!");
+    }
+}
+```
+
+SimpleAOPTest 代码:
+
+```java
+public class SimpleAOPTest {
+    @Test
+    public void getProxy() throws Exception {
+        // 1. 创建一个 MethodInvocation 实现类
+        MethodInvocation logTask = () -> System.out.println("log task start");
+        HelloServiceImpl helloServiceImpl = new HelloServiceImpl();
+        
+        // 2. 创建一个 Advice
+        Advice beforeAdvice = new BeforeAdvice(helloServiceImpl, logTask);
+        
+        // 3. 为目标对象生成代理
+        HelloService helloServiceImplProxy = (HelloService) SimpleAOP.getProxy(helloServiceImpl,beforeAdvice);
+        
+        helloServiceImplProxy.sayHelloWorld();
+    }
+}
+```
+
+输出结果：
 
 ![](http://img.bcoder.top/2020.02.04.1/2.png)
-
-![](http://img.bcoder.top/2020.02.04.1/3.png)
-
-![](http://img.bcoder.top/2020.02.04.1/4.png)
-
-![](http://img.bcoder.top/2020.02.04.1/5.png)
-
-![](http://img.bcoder.top/2020.02.04.1/6.png)
 
