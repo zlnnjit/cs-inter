@@ -100,6 +100,7 @@
   + [Spring中Bean的作用域与生命周期](spring/Spring中Bean的作用域与生命周期.md)
   + [Spring学习总结](note/spring/Spring面试总结.md)
   + [Spring常见问题总结](note/spring/Spring常见问题总结.md)
+  + [SpringMVC工作原理详解](note/spring/SpringMVC工作原理详解.md)
 
 ### MySQL
 + [MySQL总结](note/mysql/MySQL总结.md)
