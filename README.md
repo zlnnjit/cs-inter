@@ -96,10 +96,8 @@
 
 ### Interview Experience
 
-+ [知识点总结(公司)](note/interview/公司.md)
-
-+ [知识点总结(流程)](note/interview/流程.md)
-
++ [面经](note/interview/面经.md)
++ [面经(残血版)](note/interview/面经(残血版).md)
 + [知识点总结(分类)](note/interview/分类.md)
 
 
