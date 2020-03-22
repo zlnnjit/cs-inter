@@ -1,3 +1,5 @@
+> app记录
+
 ### 面试
 
 + [985/211硕士(妹纸)面试完几个大厂的自我介绍！！](https://mp.weixin.qq.com/s?__biz=MzIwNTk5NjEzNw==&mid=2247489725&idx=1&sn=c2fae49057dcf390f018e2389119b1c4&chksm=972931bba05eb8ad275328b7750d907693b95e1b671eef41d3a980de3852b0d495b1ebd7cc3d&mpshare=1&scene=23&srcid=&sharer_sharetime=1584806913341&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)

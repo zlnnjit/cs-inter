@@ -91,7 +91,7 @@
 ### 经验论
 
 + [技术类问题](note/experience/技术类问题.md)
-+ [博客参考](note/experience/博客参考.md)
++ [博客参考](note/experience/blog.md)
 
 
 
