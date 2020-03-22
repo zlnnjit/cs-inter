@@ -24,7 +24,7 @@
 
 + [三年程序员和七年程序员的最关键差异？](https://mp.weixin.qq.com/s?__biz=MzUzMjUyMDQ5Mw==&mid=2247485099&idx=1&sn=9bc41b24703c1dda05ff2e7a0e2dcc80&chksm=fab34de9cdc4c4ff3ecbbe252ac6c602366aa0fb5ede60d3c04d4539fbfe74ff3738eabe75c7&mpshare=1&scene=23&srcid=&sharer_sharetime=1567704533804&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
-### 算法
+### 算法与数据结构
 
 + [刷完LeetCode是什么水平，能拿到什么水平的 offer ？](https://www.zhihu.com/question/32019460/answer/875114975?utm_source=com.miui.notes&utm_medium=social&utm_oi=1219665287920009216)
 + [红黑树的理解与Java实现](https://mp.weixin.qq.com/s?__biz=MzU3NTMwMTUxMg==&mid=2247484558&idx=2&sn=43cfa5a7219a64e00b6cf2f52958d405&chksm=fd247669ca53ff7f36ac2ff1e3a7eb96f888f543fd6fba2e74476fae46ab8d14a4c7293c2280&mpshare=1&scene=23&srcid=&sharer_sharetime=1578845078764&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
@@ -32,6 +32,7 @@
 + [图解排序算法：彻底搞懂归并排序](https://mp.weixin.qq.com/s?__biz=MzI5ODI5NDkxMw==&mid=2247491578&idx=3&sn=2162bf258f69c371c5fe51466236a00b&chksm=eca95414dbdedd0265bd4acc1220fffc6b7b1ceb9c322380621f7bab0b50499de775a6ad3645&mpshare=1&scene=23&srcid=&sharer_sharetime=1577205821367&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [一遍记住 8 种排序算法与 Java 代码实现](https://mp.weixin.qq.com/s?__biz=MzU5NTgzMDYyMA==&mid=2247486456&idx=1&sn=a02ed2f8199efa1c037f41c39b86d811&chksm=fe6ab9cbc91d30ddebe2446d1d2b73432531859d7d0e8179daa497d64bd10a0536794ea6137e&mpshare=1&scene=23&srcid=&sharer_sharetime=1570423337659&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [万字长文！动态规划的终极难题：字符匹配类](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486566&idx=2&sn=0bc29ff3e428a463ac05033f9fdca5af&chksm=ce4047b2f937cea45b910b8b4d275782cb916beb6483037fb53d3dd05271e69206693a8e4714&mpshare=1&scene=23&srcid=&sharer_sharetime=1576322805639&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [面试官：如何在十亿个单词中，判断某个单词是否存在？布隆过滤器](https://www.toutiao.com/a6731166205631005187/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1567270627&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=20190901005707010022057029531075B&group_id=6731166205631005187)
 
 
 
@@ -70,7 +71,6 @@
 + [扫盲了！一个Java字符串中到底有多少个字符?](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjUwMg==&mid=2247487124&idx=1&sn=205a6409c03ee7119f3a295e17602f4c&chksm=a6da84fd91ad0debfc7fb32b0b9d73504e9ff7f777394719f88779ce344ee466603344d3b08d&mpshare=1&scene=23&srcid=&sharer_sharetime=1576322857545&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [重点|183道Java面试题可以说很详细了～](https://mp.weixin.qq.com/s?__biz=MzIyMDI5MzA3NQ==&mid=2247485571&idx=1&sn=9c99a5bc4f4bc449875cd4bbd36feec6&chksm=97cf7a3fa0b8f3292cc7234e1e48268afe9fe0a13aa54ddc0eb7aaeb22f9509710ce51576ae6&mpshare=1&scene=23&srcid=&sharer_sharetime=1576322365880&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [可以提高千倍效率的Java代码小技巧](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247490569&idx=1&sn=d7c8b429de7da6af224bf68c316336f6&chksm=e9c5e5b8deb26caebcee16a74826d81fb8b2183fb0fa1c6ebefcfe80ab3b18fa34dc0fb08aca&mpshare=1&scene=23&srcid=&sharer_sharetime=1575941074470&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [恕我直言，在座的各位根本不会写 Java！](https://mp.weixin.qq.com/s?__biz=MzA5MTMyNTI0Nw==&mid=2649790476&idx=1&sn=92ad7eadfbfe82eaf84f852a1b0da111&chksm=887a2e5cbf0da74ae271594688d94d71409f36424cebe719d9dde6f367bc4a24a94db6609907&mpshare=1&scene=23&srcid=&sharer_sharetime=1574869753140&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [Hutool中那些常用的工具类和方法](https://mp.weixin.qq.com/s?__biz=MzA3ODQ0Mzg2OA==&mid=2649050755&idx=3&sn=75c7d04cf28efdebdb68a304ed23dc9d&chksm=87534ab0b024c3a62dc398ce4eb3c5c270c89f742b220ba1e5a4ca250e8b69f055f6c3bf25b3&mpshare=1&scene=23&srcid=&sharer_sharetime=1574008629777&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [阿里内部员工，排查Java问题常用的工具单](https://developer.51cto.com/art/201911/606061.htm)
 
@@ -179,6 +179,10 @@
 
 + [基于Docker搭建Redis一主两从三哨兵](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247487193&idx=1&sn=4f3906bb6f74f6aec2e9f0fc4908107a&chksm=ebb74775dcc0ce63a726f14d2a07e366477f0b8ec9c0aa346ae017a09312140e63046614f309&mpshare=1&scene=23&srcid=&sharer_sharetime=1567704565166&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
++ [当面试遇到 Redis，我作为一个面试官是这么“刁难”你的！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247486092&idx=1&sn=a92b52d07fad4f8383cd9334599a0a25&chksm=fba6e28fccd16b99ab6bf5c3dd7bbad65e2146062c82e06dd65dbe82d2e32db138930100dc79&mpshare=1&scene=23&srcid=&sharer_sharetime=1566763012504&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
++ [面试官：知道为什么RedisCluster有16384个槽么？](https://www.toutiao.com/a6730498709995389448/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1567271858&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=201909010117380100220620343845574&group_id=6730498709995389448)
+
 ### ZooKeeper
 
 + [阿里巴巴为什么不用 ZooKeeper 做服务发现？](https://mp.weixin.qq.com/s?__biz=MzIyODE5NjUwNQ==&mid=2653319476&idx=1&sn=2602602ee9abb7ee4a60cada761c514c&chksm=f38778c2c4f0f1d4990585b712b8c5f174905a270a667858d5f04a19edb1488442b4cda07818&mpshare=1&scene=23&srcid=&sharer_sharetime=1584421621896&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
@@ -212,7 +216,10 @@
 + [3年后“推倒重来”，istio为什么重新回到单体应用设计？](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247493462&idx=1&sn=6d237a3ee483d51fa2b662a50b6e0ec4&chksm=e8d41894dfa391825b00621cf148f671cb834cb2a4d569a8e86db999f7aa44c86aca1ff71721&mpshare=1&scene=23&srcid=&sharer_sharetime=1584317644127&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [让我们来看看回到单体的 Istio 该怎么部署](https://mp.weixin.qq.com/s?__biz=MzIzNzU5NTYzMA==&mid=2247488800&idx=1&sn=9db1b1aa98f42d15c55b81c39f0f1cfa&chksm=e8c76ba1dfb0e2b709b71b41057d15ad30b8e2387961919365f912176039ceda101730d16201&mpshare=1&scene=23&srcid=&sharer_sharetime=1584012542390&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
+### 代码优化
 
++ [恕我直言，在座的各位根本不会写 Java！](https://mp.weixin.qq.com/s?__biz=MzA5MTMyNTI0Nw==&mid=2649790476&idx=1&sn=92ad7eadfbfe82eaf84f852a1b0da111&chksm=887a2e5cbf0da74ae271594688d94d71409f36424cebe719d9dde6f367bc4a24a94db6609907&mpshare=1&scene=23&srcid=&sharer_sharetime=1574869753140&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名](https://maimai.cn/article/detail?fid=1322396962&efid=d9eTmEr4J_arQFFJ5ugQ4g)
 
 ### 视频
 
