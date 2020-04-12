@@ -60,7 +60,7 @@
   + [自己动手实现的Spring IOC和AOP(上篇)](note/spring/自己动手实现的Spring IOC和AOP(上篇).md)
 
 + **面试相关**
-  + [Spring中Bean的作用域与生命周期](spring/Spring中Bean的作用域与生命周期.md)
+  + [Spring中Bean的作用域与生命周期](note/spring/Spring中Bean的作用域与生命周期.md)
   + [Spring学习总结](note/spring/Spring面试总结.md)
   + [Spring常见问题总结](note/spring/Spring常见问题总结.md)
   + [SpringMVC工作原理详解](note/spring/SpringMVC工作原理详解.md)
