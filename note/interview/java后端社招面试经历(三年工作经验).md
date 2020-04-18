@@ -16,7 +16,7 @@ https://www.nowcoder.com/discuss/409450
 
 
 
-# 有赞一面
+# 有赞
 
 ### hashMap原理,put和resize过程
 
@@ -38,7 +38,90 @@ hashMap 是非线程安全的， hashMap 1.7的底层实现为数组（table[]�
 
 **3.resize过程：**
 
-https://www.cnblogs.com/wang-meng/p/7582532.html
+resize扩容需要从四个方面来进行回答：
+①.**什么时候触发resize?** 当容量超过当前容量（默认容量16）乘以负载因子（默认0.75）就会进行扩容，扩容大小为当前大小的两倍（扩展问题，为啥是两倍：通过限制length是一个2的幂数，h & (length-1)和h % length结果是一致的）。
+②.**resize是如何hash的**：h & (length-1)
+③**.resize是如何进行链表操作的**：使用头插法进行数据插入，每次新put的值放在头部
+④.**并发操作下，链表是如何成环的**：HashMap的环：若当前线程此时获得ertry节点，但是被线程中断无法继续执行，此时线程二进入transfer函数，并把函数顺利执行，此时新表中的某个位置有了节点，之后线程一获得执行权继续执行，因为并发transfer，所以两者都是扩容的同一个链表，当线程一执行到e.next = new table[i] 的时候，由于线程二之前数据迁移的原因导致此时new table[i] 上就有ertry存在，所以线程一执行的时候，会将next节点，设置为自己，导致自己互相使用next引用对方，因此产生链表，导致死循环。
+
+推荐阅读：
+
+[HashMap? ConcurrentHashMap? 相信看完这篇没人能难住你！](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/#comments)
+
+[HashMap工作原理和扩容机制](https://blog.csdn.net/u014532901/article/details/78936283)
+
+
+
+### 线程池有哪些类型
+
+①FixedThreadPool:创建可重用固定线程数的线程池。
+
+```java
+    public static ExecutorService newCachedThreadPool() {
+        return new ThreadPoolExecutor(0, Integer.MAX_VALUE,
+                                      60L, TimeUnit.SECONDS,
+                                      new SynchronousQueue<Runnable>());
+    }
+```
+
+
+
+②SingleThreadPool:创建只有一个线程的线程池。
+
+```java
+    public static ExecutorService newSingleThreadExecutor(ThreadFactory threadFactory) {
+        return new FinalizableDelegatedExecutorService
+            (new ThreadPoolExecutor(1, 1,
+                                    0L, TimeUnit.MILLISECONDS,
+                                    new LinkedBlockingQueue<Runnable>(),
+                                    threadFactory));
+    }
+```
+
+
+
+③CachedThreadPool:一个可根据需要创建新线程的线程池，**如果现有线程没有可用的，则创建一个新线程并添加到池中，如果有被使用完但是还没销毁的线程，就复用该线程。终止并从缓存中移除那些已有 60 秒钟未被使用的线程。因此，长时间保持空闲的线程池不会使用任何资源。**
+
+```java
+    public static ExecutorService newCachedThreadPool(ThreadFactory threadFactory) {
+        return new ThreadPoolExecutor(0, Integer.MAX_VALUE,
+                                      60L, TimeUnit.SECONDS,
+                                      new SynchronousQueue<Runnable>(),
+                                      threadFactory);
+    }
+```
+
+
+
+④ScheduledThreadPool：创建一个线程池，它可安排在给定延迟后运行命令或者定期地执行。
+
+拓展：为啥不推荐使用①②③类型类来创建新的线程池？因为允许请求的队列长度为Integer.MAX_VALUE，可能会累积大量的请求，从而导致OOM。
+
+
+
+
+
+###  ConcurrentHashMap分段锁原理，java8和java7实现的区别
+
+ **1.ConcurrentHashMap分段锁原理:**
+
+ConcurrentHashMap采用了分段锁技术，其中Segement继承了RecentLock，当ConcurrentHashMap进行get、put操作时，均是同步的。各个Segement之间的get、put操作可以进行并发，即当一个线程访问ConcurrentHashMap的Segement时，不会影响对其他Segement的访问。
+
+**2.java7的实现？**
+
+java7采用数组+链表的底层数据结构实现。
+
+**3.java8的实现？**
+
+由于java7的实现在链表查询遍历元素的时候，时间复杂度为O(n)，当一个Segement的链表元素过多时，性能表现不是很好，因此Java8采用数据+链表/红黑树的方式实现。当链表的长度大于阈值8时，会转化成红黑树。**其中抛弃了原有的 Segment 分段锁，而采用了 `CAS + synchronized` 来保证并发安全性。**
+
+总的来说三点区别：
+
+数组+链表--->数据+链表/红黑树
+
+分段锁RecentLock--->CAS + synchronized
+
+HashEntry--->Node
 
 推荐阅读：
 
@@ -46,16 +129,99 @@ https://www.cnblogs.com/wang-meng/p/7582532.html
 
 
 
+### B-树和B+树区别，数据库索引原理
+
+ **1.B-树和B+树区别**
+
+二叉搜索树，主要特点：所有节点最多有两个儿子，并且所有节点只能存储一个关键字，同时，当前节点的左指针指向比关键字自己小的节点，当前节点的右指针指向比自己关键字大的节点。
+
+B-树和B树是一个概念，是多路搜索树（**相比于二叉搜索树，IO次数更少**）。B-树的特性：
+
+1. 关键字集合分布在整颗树中；
+2. 任何一个关键字出现且只出现在一个结点中；
+3. 搜索有可能在非叶子结点结束；
+4. 其搜索性能等价于在关键字全集内做一次二分查找；
+
+其最底搜索性能为O(logN)
 
 
 
+B+树是B-树的变体，也是一种多路搜索树    B+的特性：
+
+​    1.所有关键字都出现在叶子结点的链表中（稠密索引），且链表中的关键字恰好
+
+是有序的；
+
+​    2.不可能在非叶子结点命中；
+
+​    3.非叶子结点相当于是叶子结点的索引（稀疏索引），叶子结点相当于是存储
+
+（关键字）数据的数据层；
+
+​    4.更适合文件索引系统；
 
 
 
-线程池有哪些类型，
+**B+树的优势：**
 
- concurrentHashMap分段锁原理，java8和java7实现的区别
+- 单一节点存储更多的元素，使得查询的IO次数更少。
+- 所有查询都要查找到叶子节点，查询性能稳定。
+- 所有叶子节点形成有序链表，便于范围查询。
 
- B-树和B+树区别，数据库索引原理，组合索引怎么使用？最左匹配的原理
+B树--->MongoDB  B+树--->MySQL
 
- spring生命周期，几种scope区别，aop实现有哪几种实现，接口代理和类代理会有什么区别
+推荐阅读：
+
+[B树，B-树和B+树、B*树的区别](https://blog.csdn.net/qq_22613757/article/details/81218741)
+
+[漫画：什么是B-树？](https://mp.weixin.qq.com/s?__biz=MzI2NjA3NTc4Ng==&mid=2652079363&idx=1&sn=7c2209e6b84f344b60ef4a056e5867b4&chksm=f1748ee6c60307f084fe9eeff012a27b5b43855f48ef09542fe6e56aab6f0fc5378c290fc4fc&scene=0&pass_ticket=75GZ52L7yYmRgfY0HdRdwlWLLEqo5BQSwUcvb44a7dDJRHFf49nJeGcJmFnj0cWg#rd)
+
+[漫画：什么是B+树？](https://blog.csdn.net/qq_26222859/article/details/80631121)
+
+spring生命周期，几种scope区别，aop实现有哪几种实现，接口代理和类代理会有什么区别
+
+
+
+**2.数据库索引原理**
+
+MyISAM索引实现：MyISAM引擎使用B+Tree作为索引结构，叶节点的data域存放的是数据记录的地址。
+
+Innodb索引实现：
+
+第一个重大区别是InnoDB的数据文件本身就是索引文件。MyISAM索引文件和数据文件是分离的，索引文件仅保存数据记录的地址。而在InnoDB中，表数据文件本身就是按B+Tree组织的一个索引结构，这棵树的叶节点data域保存了完整的数据记录。这个索引的key是数据表的主键，因此InnoDB表数据文件本身就是主索引。
+
+第二个与MyISAM索引的不同是InnoDB的辅助索引data域存储相应记录主键的值而不是地址。换句话说，InnoDB的所有辅助索引都引用主键作为data域。
+
+推荐阅读：
+
+[数据库索引原理及优化](https://blog.csdn.net/suifeng3051/article/details/52669644)
+
+
+
+### 组合索引怎么使用？最左匹配的原理
+
+**1.组合索引怎么使用？最左匹配的原理**
+
+例如组合索引（a,b,c），组合索引的生效原则是 
+
+从前往后依次使用生效，如果中间某个索引没有使用，那么断点前面（**范围值也算断点，orderby不算断点，用到索引**）的索引部分起作用，断点后面的索引没有起作用；
+
+
+
+**2.最左匹配的原理**
+
+以**最左边的为起点**任何连续的索引都能匹配上
+
+
+
+推荐阅读：
+
+[组合索引的使用效果的总结](https://www.cnblogs.com/hongmoshui/p/10429842.html)
+
+
+
+### spring生命周期
+
+
+
+spring生命周期，几种scope区别，aop实现有哪几种实现，接口代理和类代理会有什么区别

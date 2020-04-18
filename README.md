@@ -104,12 +104,6 @@
 
 
 
-### Interview Experience
-
-+ 
-+ [面经(残血版)](note/interview/面经(残血版).md)
-+ [知识点总结(分类)](note/interview/分类.md)
-
 
 
 

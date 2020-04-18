@@ -110,6 +110,7 @@
   + [高并发下的 HashMap 是怎样的？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247486817&idx=2&sn=079896a07d28a5f5f28670d1d953c258&chksm=fde8c42cca9f4d3a70fdcb691df7f8860d25d6bab5bbf5569fd5bdc57390e20fd0d706685d4f&mpshare=1&scene=23&srcid=&sharer_sharetime=1584421703668&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [原创 | 万万没想到，HashMap默认容量的选择，竟然背后有这么多思考！？](https://mp.weixin.qq.com/s?__biz=MzU3NTMwMTUxMg==&mid=2247484563&idx=1&sn=43815582c965b47ea5b00d0bb9892726&chksm=fd247674ca53ff629aeb597f0d80e8f153991c1fa1b40a2454cdf96b4c4197e093a559966118&mpshare=1&scene=23&srcid=&sharer_sharetime=1578846453170&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [面试官：”用HashMap存1w条数据，构造时传10000会触发扩容吗？“](https://www.toutiao.com/a6753171498158014989/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1572710374&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019110223593301002607706602C75ECD&group_id=6753171498158014989)
+  + [>>>>2<<<<HashMap和Hashtable的区别](https://blog.csdn.net/xuhuaabc/article/details/91475761)
 
 + **基础**
 
