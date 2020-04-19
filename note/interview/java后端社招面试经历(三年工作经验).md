@@ -220,8 +220,159 @@ Innodb索引实现：
 
 
 
-### spring生命周期
+### Spring生命周期
+
+Bean 的生命周期概括起来就是 **4 个阶段**：
+
+1. 实例化（Instantiation）
+2. 属性赋值（Populate）
+3. 初始化（Initialization）
+   1. 初始化前：
+      1. 检查 Aware 相关接口并设置相关依赖(BeanNameAware、BeanClassLoaderAware、BeanFactoryAware)
+      2. BeanPostProcessor 前置处理
+   2. 初始化中：
+      1. 若实现 InitializingBean 接口，调用 afterPropertiesSet() 方法
+      2. 若配置自定义的 init-method方法，则执行
+   3. 初始化后：
+      1. BeanPostProceesor 后置处理
+4. 销毁（Destruction）
+   1. 若实现 DisposableBean 接口，则执行 destory()方法
+   2. 若配置自定义的 detory-method 方法，则执行
 
 
 
-spring生命周期，几种scope区别，aop实现有哪几种实现，接口代理和类代理会有什么区别
+推荐阅读：
+
+[如何记忆 Spring Bean 的生命周期](https://juejin.im/post/5e4791a7f265da5715630629)
+
+[Spring Bean的生命周期（非常详细）](https://www.cnblogs.com/zrtqsk/p/3735273.html)
+
+
+
+### Spring几种scope区别？
+
+1.singleton:Spring的IOC容器中只有一个实例bean，该值为scope的默认值
+
+2.prototype：每次getBean时都会创建一个新的实例
+
+3.request:每次请求都会创建一个实体bean
+
+4.session：每次session请求时都会创建一个实体bean
+
+5.globalsession:每个全局的HTTP Session，使用session定义的Bean都将产生一个新实例。
+
+
+
+推荐阅读：
+
+[Spring中的scope配置和@scope注解](https://blog.csdn.net/Tracycater/article/details/54019223)
+
+
+
+
+
+### Spring AOP实现有哪几种实现，接口代理和类代理会有什么区别?
+
+Spring AOP有两种实现，均为动态代理：
+
+1.JDK动态代理：基于反射进行动态代理，核心类是InvocationHandker类和Proxy类，被代理的类必须实现接口
+
+2.CGLIB动态代理：被代理类无需实现接口，主要实现MethodInterceptor接口即可实现代理
+
+
+
+Spring AOP如果代理的类存在接口，优先使用JDK动态代理，否则使用CGLIB动态代理。
+
+
+
+推荐阅读：
+
+[Spring AOP实现原理](https://juejin.im/post/5af3bd6f518825673954bf22#heading-4)
+
+
+
+### 斐波拉契数列非递归实现
+
+```java
+public static int fib(int n) {
+    if(n<=2)return 1;
+    int first=1;
+    int second=1;
+    int sum=0;
+    while(n>2) {
+        sum=first+second;
+        first=second;
+        second=sum;
+        n--;
+    }    
+    return second;
+} 
+```
+
+
+
+### 短URL实现
+
+自增序列算法、 摘要算法
+
+推荐阅读：
+
+[短网址(short URL)系统的原理及其实现](https://hufangyun.com/2017/short-url/)
+
+
+
+
+
+# 今日头条
+
+### JVM内存模型
+
+1.程序计数器：线程私有，用来程序跳转，流程控制
+
+2.方法区（1.8叫元数据区）：线程共享，用于存储类信息、常量、静态变量等信息
+
+3.Java虚拟机栈：线程私有，用于方法调用**Java 虚拟机栈会出现两种错误：StackOverFlowError 和 OutOfMemoryError**
+
+4.堆：线程私有，主要的内存区域，存储对象实例，垃圾回收主要针对这一块。
+
+5.本地方法栈：线程共享，本地方法被执行的时候，在本地方法栈也会创建一个栈帧，用于存放该本地方法的局部变量表、操作数栈、动态链接、出口信息。
+
+参考：[京东18届一年半经验社招.md#运行时数据区域内存模型必考](https://gitee.com/zlnnjit/cs-inter/blob/master/note/interview/京东18届一年半经验社招.md#运行时数据区域内存模型必考)
+
+
+
+### G1和CMS垃圾回收器
+
+G1收集器：**是一种以获取最短回收停顿时间为目标的收集器**。
+
+**过程：**
+
+①初始标记：GC Roots---->STW
+
+②并发标记：GC Roots Tracing
+
+③重新标记：修正并发标记期间因用户程序继续运作而导致标记产生变动的那一部分对象的标记记录--->STW
+
+④并发清除： 开启用户线程，同时 GC 线程开始对为标记的区域做清扫。
+
+**缺点：**
+
+①
+
+
+
+推荐阅读：
+
+[弄明白CMS和G1，就靠这一篇了](https://yuanrengu.com/2020/4c889127.html)
+
+
+
+
+
+await和sleep区别
+
+spring生命周期，几种scope区别
+
+linux常用指令
+
+java多线程，线程池的选型，为什么要选这个，底层实现原理
