@@ -1,5 +1,11 @@
 > app记录
 
+`>>>>1<<<<`代表相当值得读
+
+`>>>>2<<<<` 代表值得读
+
+`>>>>3<<<<`代表一般，可以替代
+
 ### 面试
 
 + **面试技巧**
@@ -190,6 +196,7 @@
 + [通俗易懂，常用线程池执行的-流程图](https://mp.weixin.qq.com/s?__biz=MzA4NDc2MDQ1Nw==&mid=2650242752&idx=1&sn=66ec564210cd39ce4e2b50964dab9e9b&chksm=87e19c26b0961530c881e0fae46e4f7f71b5b732d0c36b662abdfe376c1c64be081c6587fef3&mpshare=1&scene=23&srcid=&sharer_sharetime=1570423704399&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [Java中所有锁介绍](https://mp.weixin.qq.com/s?__biz=MzA5ODAwOTQ1NA==&mid=2652090875&idx=2&sn=78526ccb14ab7acec507059e1dcbb076&chksm=8b7f39fabc08b0ecb15435d79feb55f34ed1463af8bd79403fbd0b5f67bafabbd83e741c88fb&mpshare=1&scene=23&srcid=&sharer_sharetime=1567704384110&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [Java 并发异步编程，原来十个接口的活现在只需要一个接口就搞定!](https://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247490293&idx=1&sn=3f3f63272180704ce24262a71ee55814&chksm=ea5cd793dd2b5e856c82fd2162bca38afd1c36d8e3b7659ba11bb197afaae37cb1223975d000&mpshare=1&scene=23&srcid=&sharer_sharetime=1586660006130&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [>>>>1<<<<如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答。](https://www.cnblogs.com/thisiswhy/p/12690630.html)
 
 ### JVM
 
