@@ -440,7 +440,7 @@ top/free/df/mv/cp/sed/scp......
 
 参考：
 
-[京东18届一年半经验社招.md#核心线程池threadpoolexecutor的参数必考](https://github.com/zlnnjit/cs-inter/blob/master/note/interview/京东18届一年半经验社招.md#核心线程池threadpoolexecutor的参数必考)
+[京东18届一年半经验社招.md#核心线程池threadpoolexecutor的参数必考](https://gitee.com/zlnnjit/cs-inter/blob/master/note/interview/京东18届一年半经验社招.md#核心线程池threadpoolexecutor的参数必考)
 
 
 
@@ -652,31 +652,65 @@ Redis采用的方式:①(随机抓取一部分key进行检测)+②
 
 ### Zookeeper锁是如何实现的
 
+一般使用Curator进行使用Zookeeper锁，例如有两个客户端A和客户端B,首先A先在锁节点下创建例如01子节点的锁，然后再获取节点信息，发现自己的01节点排名第一，那么就获得锁。
+
+客户端B也需要获取锁，现在锁节点下创建例如02的子节点，然后再获取锁节点信息，发现锁节点信息为[01,02],并不排第一，因此获取不到锁，客户端B会在他的顺序节点的**上一个顺序节点加一个监听器。**
+
+当客户端A使用完锁，删除01节点，客户端B获取到01删除的监听，然后发现自己的02节点排名第一，那么就获取到锁。
+
+推荐阅读：
+
+[七张图彻底讲清楚ZooKeeper分布式锁的实现原理](https://juejin.im/post/5c01532ef265da61362232ed)
 
 
 
 
-分布式缓存读写不一致问题
 
-java线程你是怎么使用的
+### 分布式缓存读写不一致问题
 
-数据库是如何调优的
+参考：[京东18届一年半经验社招.md#redis与mysql双写一致性方案](https://github.com/zlnnjit/cs-inter/blob/master/note/interview/%E4%BA%AC%E4%B8%9C18%E5%B1%8A%E4%B8%80%E5%B9%B4%E5%8D%8A%E7%BB%8F%E9%AA%8C%E7%A4%BE%E6%8B%9B.md#redis%E4%B8%8Emysql%E5%8F%8C%E5%86%99%E4%B8%80%E8%87%B4%E6%80%A7%E6%96%B9%E6%A1%88)
 
-git rebase命令发生了什么
+推荐阅读：
+
+[Redis与Mysql双写一致性方案解析](https://zhuanlan.zhihu.com/p/59167071)
 
 
 
-# 华为
+### Java线程你是怎么使用的
 
-结构数据库和非结构数据库区别，你了解的非结构数据库有哪些
+①如何创建线程：
 
- 频繁的增删数据量某个表，数据库最终数据只有几万或者更少，为什么查询会变慢
++ Thread
++ Runnable
++ Callable
++ Executors工具类
++ ThreadPoolExecutor对象
 
- 数据如果出现了阻塞，你是怎么排查的，top和jstack命令用过没，jstack命令的nid是什么意思，怎么查看java某个进程的线程
+②主要讲线程池
 
- 大数据算法聚类算法有哪些
+### 数据库是如何调优的
 
- 写一个算法判断某个数是2的n次方
+1.数据表加合适的索引
 
- 说你最熟悉的项目
+2.针对执行计划进行优化
+
+3.根据慢sql进行优化
+
+4.加缓存
+
+5.参数调优
+
+推荐阅读：
+
+[知乎：有哪些常见的数据库优化方法？](https://www.zhihu.com/question/36431635)
+
+
+
+### git rebase命令发生了什么
+
+rebase命令可以帮我们把整个提交历史变成干净清晰的一条线。
+
+[彻底搞懂 Git-Rebase](http://jartto.wang/2018/12/11/git-rebase/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
 
