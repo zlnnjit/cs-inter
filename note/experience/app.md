@@ -20,6 +20,9 @@
   + [那些面试官，都是如何把候选人聊崩溃的](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651963415&idx=1&sn=e3a47a27bb80a38b727b28c1b2589059&chksm=bd2d75cb8a5afcddb88d6c5db14891bcc8a6cd0d1edbfed1c8c409fcc77f03e8a3a27be89d59&mpshare=1&scene=23&srcid=&sharer_sharetime=1585915493007&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [面试阿里P6惨败，室友怒怼：你这就是标准的程序员“垃圾简历”](https://zhuanlan.zhihu.com/p/126505949)
   + [两年滴滴和头条的后端开发经验！字字都是肺腑之言！](https://mp.weixin.qq.com/s?__biz=MzUxOTc4NjEyMw==&mid=2247486170&idx=1&sn=669837092cf56e561db63413e3124f08&chksm=f9f5113ece829828d5289036fa956157c69a1c33b74ef55b234d156ba22c0506ad985510192f&mpshare=1&scene=23&srcid=&sharer_sharetime=1586658672353&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [掌握这 11 个方法论，搞定一场完美技术面试](https://mp.weixin.qq.com/s?__biz=MzU5NTAzNjM0Mw==&mid=2247487854&idx=1&sn=20f5b07078745e3d6dd3aa7bcf758298&chksm=fe7940b6c90ec9a0acd308d53ac8674546dba88d1c927f29bbaab41a33b3b1e6fe12d1211358&mpshare=1&scene=23&srcid=&sharer_sharetime=1587313016498&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [如何向面试官提出优质的问题？](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653062724&idx=1&sn=05a735e8801651876e24b5688afe465b&chksm=bd56a5788a212c6e8ce816231e6297356e90c016fa9d12450919f79e2d0c7d12f8a05f89c2c6&mpshare=1&scene=23&srcid=&sharer_sharetime=1587401583330&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [一次蚂蚁金服的辛酸面试历程，我太难了！](https://mp.weixin.qq.com/s?__biz=MzUyNDc0NjM0Nw==&mid=2247485018&idx=1&sn=46b0509cb2f510cd2c0dd8aabe10091b&chksm=fa29ed5ecd5e644866a9df780b4562bbe0f6ffddbd5e6d3120f07a966c8da46cc090baf353c9&mpshare=1&scene=23&srcid=&sharer_sharetime=1587735112253&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 + **面经**
 
@@ -33,6 +36,10 @@
   + [逆风而行！从考研失败到收获到自己满意的Offer,分享一下自己的经历！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486536&idx=1&sn=5557b52d6c6cc52c937c178a8a57a3ad&chksm=cea24383f9d5ca9548db06bdc1402de36c0982d26d6e525ac0a82895f5eabbc970cc56ab5901&mpshare=1&scene=23&srcid=&sharer_sharetime=1586658990774&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [一位妹纸的面试总结（美团+阿里+携程+58+贝贝+招银+华为+....）](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649849137&idx=1&sn=4aaabba0d49e25a094f2a944b34534cf&chksm=83bf746ab4c8fd7c54f748f2f5cd2c97664ed89cf6d6528f9c7686cb568b99408ce20f6fe5c4&mpshare=1&scene=23&srcid=&sharer_sharetime=1586661060023&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [三面阿里被挂，幸获内推名额，历经5面终获口碑offer](https://mp.weixin.qq.com/s?__biz=MzU5NTAzNjM0Mw==&mid=2247487780&idx=1&sn=f45ab718477981c7267cc944283179f9&chksm=fe7940fcc90ec9ead5ee3f566806c38a8b0e4581cd18000bbff83d61075864ffafbde477897f&mpshare=1&scene=23&srcid=&sharer_sharetime=1586661642979&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [拿到阿里offer，回馈牛客~【更新中，附上笔记】](https://www.nowcoder.com/discuss/401895)
+  + [支付宝java社招面试经历](https://www.nowcoder.com/discuss/412047)
+  + [面经：通过五轮面试斩获offer的阿里实习生亲述！](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247486966&idx=1&sn=54fff14fd8c17ecf1dcc0e6bbc9f4014&chksm=fde8c4bbca9f4dad74aae5d677d588a559e40ba4d32ed3753a399ce16ac674e09617de7125fe&mpshare=1&scene=23&srcid=&sharer_sharetime=1587735553765&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [Java后端面试题 - 架构篇](http://vc2x.com/articles/2020/03/12/1583985730685.html#toc_h2_25)
 
 + **面试博客&项目**
 
@@ -40,23 +47,41 @@
   + [面试题内容聚合](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247488811&idx=3&sn=b04d8fdacf575c7ec959de4107f31091&chksm=ebd62a07dca1a31186f7f62de60ba7c7a88db26233562ed7183c6f609c5e7f4ffb448f30375f&mpshare=1&scene=23&srcid=&sharer_sharetime=1569590850269&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [阿里巴巴招聘最全集合帖：宣讲会+岗位+30篇面试宝典来啦](https://developer.aliyun.com/article/751251?utm_content=g_1000109432&from=timeline)
   + [V2.0 版本的 《JavaGuide面试突击版》来啦！带着它的在线阅读版本来啦！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486494&idx=1&sn=a17e8278bd9fc1354449f925ef990c25&chksm=cea243d5f9d5cac3b0b3b55769e162363256eb7fa483997c21b62cddb4ef2d583a2bcae0ac1a&mpshare=1&scene=23&srcid=&sharer_sharetime=1585914966522&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [500篇Java技术文章整理](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247490010&idx=2&sn=77ae351b23e60a90a202d2302c2d7525&chksm=fa59de1dcd2e570b897744ea27feb2ba62b84289c7fb6c8371a50e533c666104de8d00668eba&mpshare=1&scene=23&srcid=&sharer_sharetime=1586657989732&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-  
-  
+  + [500篇Java技术文章整理](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247490010&idx=2&sn=77ae351b23e60a90a202d2302c2d7525&chksm=fa59de1dcd2e570b897744ea27feb2ba62b84289c7fb6c8371a50e533c666104de8d00668eba&mpshare=1&scene=23&srcid=&sharer_sharetime=1586657989732&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [CoderV的进阶笔记](http://vc2x.com/)
+
++ **视频**
+  + [模拟面试](https://profile.zjurl.cn/rogue/ugc/profile/?version_code=770&version_name=70700&user_id=3270187212&media_id=1557137040287746&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article)
 
 ### 算法与数据结构
 
-+ [刷完LeetCode是什么水平，能拿到什么水平的 offer ？](https://www.zhihu.com/question/32019460/answer/875114975?utm_source=com.miui.notes&utm_medium=social&utm_oi=1219665287920009216)
-+ [红黑树的理解与Java实现](https://mp.weixin.qq.com/s?__biz=MzU3NTMwMTUxMg==&mid=2247484558&idx=2&sn=43cfa5a7219a64e00b6cf2f52958d405&chksm=fd247669ca53ff7f36ac2ff1e3a7eb96f888f543fd6fba2e74476fae46ab8d14a4c7293c2280&mpshare=1&scene=23&srcid=&sharer_sharetime=1578845078764&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [图解红黑树原理，再也不怕面试被问到](https://mp.weixin.qq.com/s?__biz=MzA5MTc0NTMwNQ==&mid=2650718524&idx=2&sn=7f0318036656686cf3d5d8241d3bb8e7&chksm=887ddc4abf0a555ccfcc7a538a12ffff416886c072c1adf2f4e7bbe25d1f78fe995ed53047c2&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192302977&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [图解排序算法：彻底搞懂归并排序](https://mp.weixin.qq.com/s?__biz=MzI5ODI5NDkxMw==&mid=2247491578&idx=3&sn=2162bf258f69c371c5fe51466236a00b&chksm=eca95414dbdedd0265bd4acc1220fffc6b7b1ceb9c322380621f7bab0b50499de775a6ad3645&mpshare=1&scene=23&srcid=&sharer_sharetime=1577205821367&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [一遍记住 8 种排序算法与 Java 代码实现](https://mp.weixin.qq.com/s?__biz=MzU5NTgzMDYyMA==&mid=2247486456&idx=1&sn=a02ed2f8199efa1c037f41c39b86d811&chksm=fe6ab9cbc91d30ddebe2446d1d2b73432531859d7d0e8179daa497d64bd10a0536794ea6137e&mpshare=1&scene=23&srcid=&sharer_sharetime=1570423337659&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [万字长文！动态规划的终极难题：字符匹配类](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486566&idx=2&sn=0bc29ff3e428a463ac05033f9fdca5af&chksm=ce4047b2f937cea45b910b8b4d275782cb916beb6483037fb53d3dd05271e69206693a8e4714&mpshare=1&scene=23&srcid=&sharer_sharetime=1576322805639&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [面试官：如何在十亿个单词中，判断某个单词是否存在？布隆过滤器](https://www.toutiao.com/a6731166205631005187/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1567270627&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=20190901005707010022057029531075B&group_id=6731166205631005187)
-+ [防止缓存击穿？请用布隆过滤器！](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247491295&idx=1&sn=89a774b95eda342989743233a8c05076&chksm=e9c5e76edeb26e785d5f653a1519c7e01265a4c4675ca1e09842fbd7e5666dd6b75dc1c3718f&mpshare=1&scene=23&srcid=&sharer_sharetime=1585359766831&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [用 C++ 和 Java 写算法，差别大吗？](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651582913&idx=1&sn=0bbdb938a554c4bc27c0d8a6e753c8bf&chksm=8cd9ef25bbae6633dfcf6424a810cffe8620fa927267c2ef379f10cf3d9aa3c3a9d08e5497cc&mpshare=1&scene=23&srcid=&sharer_sharetime=1585355248685&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [面试必问的一致性Hash在负载均衡中的应用](https://mp.weixin.qq.com/s?__biz=MzUxOTAxODc2Mg==&mid=2247486623&idx=1&sn=52cf48d6d4bd638f59f02a1d2ed66b20&chksm=f9814cfacef6c5ecf15e88db2da2ed3dbbe97193645572de733a6e065148f8ab1707336389f0&mpshare=1&scene=23&srcid=&sharer_sharetime=1586658771910&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [一篇文章彻底搞懂动态规划！](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651437738&idx=1&sn=f5d0db4affd53676f0c7cfb27bc94b6e&chksm=f12893d1c65f1ac79c7730e24c9ccb550e81f2339b8a53170cd80489e9e7f3843574355183e1&mpshare=1&scene=23&srcid=&sharer_sharetime=1586660056753&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **技巧&经验**
+
+  + [刷完LeetCode是什么水平，能拿到什么水平的 offer ？](https://www.zhihu.com/question/32019460/answer/875114975?utm_source=com.miui.notes&utm_medium=social&utm_oi=1219665287920009216)
+  + [用 C++ 和 Java 写算法，差别大吗？](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651582913&idx=1&sn=0bbdb938a554c4bc27c0d8a6e753c8bf&chksm=8cd9ef25bbae6633dfcf6424a810cffe8620fa927267c2ef379f10cf3d9aa3c3a9d08e5497cc&mpshare=1&scene=23&srcid=&sharer_sharetime=1585355248685&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [LeetCode按照怎样的顺序来刷题比较好？](https://zhuanlan.zhihu.com/p/104983442)
+
++ **理论**
+
+  + [红黑树的理解与Java实现](https://mp.weixin.qq.com/s?__biz=MzU3NTMwMTUxMg==&mid=2247484558&idx=2&sn=43cfa5a7219a64e00b6cf2f52958d405&chksm=fd247669ca53ff7f36ac2ff1e3a7eb96f888f543fd6fba2e74476fae46ab8d14a4c7293c2280&mpshare=1&scene=23&srcid=&sharer_sharetime=1578845078764&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [图解红黑树原理，再也不怕面试被问到](https://mp.weixin.qq.com/s?__biz=MzA5MTc0NTMwNQ==&mid=2650718524&idx=2&sn=7f0318036656686cf3d5d8241d3bb8e7&chksm=887ddc4abf0a555ccfcc7a538a12ffff416886c072c1adf2f4e7bbe25d1f78fe995ed53047c2&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192302977&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [图解排序算法：彻底搞懂归并排序](https://mp.weixin.qq.com/s?__biz=MzI5ODI5NDkxMw==&mid=2247491578&idx=3&sn=2162bf258f69c371c5fe51466236a00b&chksm=eca95414dbdedd0265bd4acc1220fffc6b7b1ceb9c322380621f7bab0b50499de775a6ad3645&mpshare=1&scene=23&srcid=&sharer_sharetime=1577205821367&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [一遍记住 8 种排序算法与 Java 代码实现](https://mp.weixin.qq.com/s?__biz=MzU5NTgzMDYyMA==&mid=2247486456&idx=1&sn=a02ed2f8199efa1c037f41c39b86d811&chksm=fe6ab9cbc91d30ddebe2446d1d2b73432531859d7d0e8179daa497d64bd10a0536794ea6137e&mpshare=1&scene=23&srcid=&sharer_sharetime=1570423337659&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [万字长文！动态规划的终极难题：字符匹配类](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486566&idx=2&sn=0bc29ff3e428a463ac05033f9fdca5af&chksm=ce4047b2f937cea45b910b8b4d275782cb916beb6483037fb53d3dd05271e69206693a8e4714&mpshare=1&scene=23&srcid=&sharer_sharetime=1576322805639&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [一篇文章彻底搞懂动态规划！](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651437738&idx=1&sn=f5d0db4affd53676f0c7cfb27bc94b6e&chksm=f12893d1c65f1ac79c7730e24c9ccb550e81f2339b8a53170cd80489e9e7f3843574355183e1&mpshare=1&scene=23&srcid=&sharer_sharetime=1586660056753&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [拜托，别再问我什么是堆了!](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651487050&idx=1&sn=6f9917fbb6f175ab27bac5c03311eaad&chksm=bd2517358a529e23bc65e52e890a1dd27ace237135a8cc56008ff382ea1bca738eb6b5b92d92&mpshare=1&scene=23&srcid=&sharer_sharetime=1587735764742&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文）](https://zhuanlan.zhihu.com/p/91582909?utm_source=com.miui.notes&utm_medium=social&utm_oi=663284535672967168)
+
++ **应用**
+
+  + [面试官：如何在十亿个单词中，判断某个单词是否存在？布隆过滤器](https://www.toutiao.com/a6731166205631005187/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1567270627&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=20190901005707010022057029531075B&group_id=6731166205631005187)
+  + [防止缓存击穿？请用布隆过滤器！](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247491295&idx=1&sn=89a774b95eda342989743233a8c05076&chksm=e9c5e76edeb26e785d5f653a1519c7e01265a4c4675ca1e09842fbd7e5666dd6b75dc1c3718f&mpshare=1&scene=23&srcid=&sharer_sharetime=1585359766831&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
+  + [面试必问的一致性Hash在负载均衡中的应用](https://mp.weixin.qq.com/s?__biz=MzUxOTAxODc2Mg==&mid=2247486623&idx=1&sn=52cf48d6d4bd638f59f02a1d2ed66b20&chksm=f9814cfacef6c5ecf15e88db2da2ed3dbbe97193645572de733a6e065148f8ab1707336389f0&mpshare=1&scene=23&srcid=&sharer_sharetime=1586658771910&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
++ **综合**
+
+  + [图解算法系列](https://mp.weixin.qq.com/s/3eJNKDTZ5y5icMnfv9Is_w)
 
 ### MySQL
 
@@ -69,15 +94,20 @@
   + [Mysql面试题及千万级数据查询优化](https://mp.weixin.qq.com/s?__biz=MzA3ODQ0Mzg2OA==&mid=2649050551&idx=1&sn=f7936bd58461542fd740531d54e831d9&chksm=87534984b024c092150e6d4384a9a122416b0b81c55e5d28336e13c965eb4f62e6847659f597&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192361274&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [面试官问：如何优化 MySQL 大分页查询?](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247487439&idx=1&sn=9c3c3f0cbfcb7a65af23c54e1c7c83f7&chksm=96cd4f83a1bac695102bc141bdbd5ec96db25474593108c8c3b9c823ddd10aa740fa5d5c7a6d&mpshare=1&scene=23&srcid=&sharer_sharetime=1570424412921&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [一次SQL查询优化原理分析（900W+数据，从17s到300ms）](https://www.jianshu.com/p/0768ebc4e28d)
+  + [MySQL千万级别大表，你要如何优化？](https://mp.weixin.qq.com/s?__biz=MzU3NDc0MzQ5Nw==&mid=2247484916&idx=1&sn=bf4af23170566640a46f5e4bf9cbfab2&chksm=fd2cf352ca5b7a444d2954d69b0000207fafbbe5e0103fbe7c3a4c742f1b68f14f856d7c81ff&mpshare=1&scene=23&srcid=&sharer_sharetime=1587085286568&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [项目上线后，谈一下感触比较深的一点：查询优化](https://www.cnblogs.com/youzhibing/p/11105897.html)
 + **面试**
   + [建议收藏！写给程序员的 MySQL 面试高频 100 问](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247487661&idx=1&sn=4909cbfb76b9efbeb9f003a319634953&chksm=ebb75901dcc0d017b58cef148e553ee8a6681433cd5719e2b6398f505ec3b18ac3c256c62ed0&mpshare=1&scene=23&srcid=&sharer_sharetime=1580661480075&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **综合**
+  + [MySQL思维导图](https://www.processon.com/view/link/5e7e3318e4b06b852ffeea37#map)
 + **索引**
   + [为什么 MySQL 使用 B+ 树](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651485910&idx=2&sn=553e1a3c2c862ba938a6a81760d88a1e&chksm=bd251aa98a5293bf27b77898215710bf1e06576dc7f6625f5703f71d87e8c8c990a1a6f4f541&mpshare=1&scene=23&srcid=&sharer_sharetime=1578110256561&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [MySQL 如何正确的使用索引](https://www.toutiao.com/a6758725309949805059/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1573891577&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019111616061701002607608535DB995C&group_id=6758725309949805059)
-  + [MySQL：互联网公司常用分库分表方案汇总](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651941771&idx=1&sn=406b450a9acf2abdb0eab7c00883c1bd&chksm=8d0f04c5ba788dd37b1ffeb5e9d16507dea20961760456d08a8727e1432e6df28db75e103d8f&mpshare=1&scene=23&srcid=&sharer_sharetime=1584866799138&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [面试官:谈谈你对mysql联合索引的认识?](https://mp.weixin.qq.com/s?__biz=MzIwMDgzMjc3NA==&mid=2247484811&idx=1&sn=fb702f90cdd86f5139a857b933bf438f&chksm=96f667e2a181eef4443f08cf380b0a02a38a4f08e6ff0faf69df63e6cfac8ca7babddcfac16f&mpshare=1&scene=23&srcid=&sharer_sharetime=1585109217041&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + **分库分表**
   + [数据库分库分表解决方案汇总](https://mp.weixin.qq.com/s?__biz=MzIyODE5NjUwNQ==&mid=2653318558&idx=1&sn=67c3cc391d0d47b9e99b4fd72bb5066a&chksm=f3876468c4f0ed7e5aae5fea4fd6ec863f94f10d08e992d9a16af5a77fe9028f62dac6a6e62c&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323429224&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [MySQL：互联网公司常用分库分表方案汇总](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651941771&idx=1&sn=406b450a9acf2abdb0eab7c00883c1bd&chksm=8d0f04c5ba788dd37b1ffeb5e9d16507dea20961760456d08a8727e1432e6df28db75e103d8f&mpshare=1&scene=23&srcid=&sharer_sharetime=1584866799138&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [sharding jdbc + mybatis +spring boot的分库分表实现](https://www.jianshu.com/p/3b2ab87b0de7)
 + **高可用**
   + [基于 Canal 和 Kafka 实现 MySQL 的 Binlog 近实时同步](https://mp.weixin.qq.com/s?__biz=MzAwNTQ4MTQ4NQ==&mid=2453563998&idx=1&sn=2ec29e20f4471a5368f1f5fefe48c513&chksm=8cd13f3cbba6b62a1821845693bf2df37245d0803350226decfa80d32eae0a13cf96a2c1095b&mpshare=1&scene=23&srcid=&sharer_sharetime=1585915129576&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [MySQL 高可用架构](https://mp.weixin.qq.com/s?__biz=MzAwNTM5Njk3Mw==&mid=2247488031&idx=1&sn=9ccc9ad2baa027e41f1217c43adbf1c4&chksm=9b1c129dac6b9b8b32d65ff176f4a97132fe2734bf1406eca732ebf193dc0745c4f69a92c681&mpshare=1&scene=23&srcid=&sharer_sharetime=1586658267745&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
@@ -101,6 +131,7 @@
   + [这才是JAVA中打印日志的正确姿势](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650125335&idx=2&sn=16ec03f5c997525a9416c36cf2b781ce&chksm=f36ba936c41c202059e0e869bd2cb14172378663b115c6262085505f6e22186e0c3ac3024027&mpshare=1&scene=23&srcid=&sharer_sharetime=1575085618135&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [可以提高千倍效率的Java代码小技巧](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247490569&idx=1&sn=d7c8b429de7da6af224bf68c316336f6&chksm=e9c5e5b8deb26caebcee16a74826d81fb8b2183fb0fa1c6ebefcfe80ab3b18fa34dc0fb08aca&mpshare=1&scene=23&srcid=&sharer_sharetime=1575941074470&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [没想到啊，我定的日志规范被 CTO 在全公司推广了！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247487187&idx=1&sn=95aedff82d1fc8dcd5f2b71dea1765c9&chksm=fba6e6d0ccd16fc6dea57c3b0804f1dc5f339df1dea3db48dcfeec77923bf6cd37aec8054f5d&mpshare=1&scene=23&srcid=&sharer_sharetime=1585354854334&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [解读《阿里巴巴 Java 开发手册》背后的思考](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651582957&idx=1&sn=03faa0d48e3a9abde1624e080d4828ab&chksm=8cd9ef09bbae661f37e2c32a182b36e768d3bddb5990251390ad4400bef5c4d87f578b860184&mpshare=1&scene=23&srcid=&sharer_sharetime=1586780242336&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 + **问题排查**
 
@@ -110,12 +141,17 @@
   + [一次 Java 内存泄漏的排查](https://maimai.cn/article/detail?fid=1429362040&efid=xwQuCWepfMPriigj8lJ-NA&use_rn=1)
   + [jstack 命令使用经验总结和线程性能诊断脚本](https://mp.weixin.qq.com/s?__biz=MzIyODE5NjUwNQ==&mid=2653319626&idx=1&sn=d6fc04209c73a6347fb12d86001dbf42&chksm=f387783cc4f0f12a99c0aa4229b0d306040179470e6c26f219cb0d1e01f26722e95dc7d40b2b&mpshare=1&scene=23&srcid=&sharer_sharetime=1586042331828&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [害阿里程序员差点被当场开除的P0事故](https://www.toutiao.com/a6807781080578392580/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1586044263&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2020040507510301012903207909AA21E6&group_id=6807781080578392580)
+  + [必杀技：当报错信息看不出原因时，怎么办？](https://mp.weixin.qq.com/s?__biz=MzIwMDY0Nzk2Mw==&mid=2650321297&idx=1&sn=52f33ddb33e9b8c1c6114842a57c26c6&chksm=8ef5e5e5b9826cf3338f84a59b66b23b873119733a22b0515887dad13a2386deeaea86c76406&mpshare=1&scene=23&srcid=&sharer_sharetime=1587269211235&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [一次扎心排查：阿里云 ECS 的 CPU 100%](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247486978&idx=1&sn=d5c6eaf27fa4756be0d86d6253be5b73&chksm=fde8c74fca9f4e5901320bd8878d7fbfe4f5d2049b52dc258b417dde254d0583406dbf15e621&mpshare=1&scene=23&srcid=&sharer_sharetime=1587913540097&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 + **集合**
 
   + [高并发下的 HashMap 是怎样的？](https://mp.weixin.qq.com/s?__biz=MzU4NzYwNDAwMg==&mid=2247486817&idx=2&sn=079896a07d28a5f5f28670d1d953c258&chksm=fde8c42cca9f4d3a70fdcb691df7f8860d25d6bab5bbf5569fd5bdc57390e20fd0d706685d4f&mpshare=1&scene=23&srcid=&sharer_sharetime=1584421703668&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [原创 | 万万没想到，HashMap默认容量的选择，竟然背后有这么多思考！？](https://mp.weixin.qq.com/s?__biz=MzU3NTMwMTUxMg==&mid=2247484563&idx=1&sn=43815582c965b47ea5b00d0bb9892726&chksm=fd247674ca53ff629aeb597f0d80e8f153991c1fa1b40a2454cdf96b4c4197e093a559966118&mpshare=1&scene=23&srcid=&sharer_sharetime=1578846453170&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [面试官：”用HashMap存1w条数据，构造时传10000会触发扩容吗？“](https://www.toutiao.com/a6753171498158014989/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1572710374&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019110223593301002607706602C75ECD&group_id=6753171498158014989)
+  + [面试官邪魅一笑：HashMap 为什么线程不安全？](https://mp.weixin.qq.com/s?__biz=MzU3MDc3OTI1NA==&mid=2247486391&idx=1&sn=fe7c3c1542f7930cc6cd1a706a082220&chksm=fceb78aecb9cf1b821dff8cabc05f1c45dd90b35ee777154fb7c39de09e29acd5cb96b6c3f3b&mpshare=1&scene=23&srcid=&sharer_sharetime=1587085131361&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [面试官再问你 HashMap 底层原理，就把这篇文章甩给他看](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247488525&idx=2&sn=29224bd79e4d5eb435759e7b10f53462&chksm=fbb29df3ccc514e50855bdb1aff01abf5a16a8b123194f33577267c3e09a925240819cde8639&mpshare=1&scene=23&srcid=&sharer_sharetime=1587735879353&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [HashMap 面试 21 问，这次要跪了！](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247493568&idx=2&sn=0b72599b3d6e9944ae5243ade54398da&chksm=eb5062f6dc27ebe0cf05d4ff6a60dc9ff79d8f51ddb6776137d538371ab321f52e5f9181fcab&mpshare=1&scene=23&srcid=&sharer_sharetime=1587735806995&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [>>>>2<<<<HashMap和Hashtable的区别](https://blog.csdn.net/xuhuaabc/article/details/91475761)
 
 + **基础**
@@ -163,40 +199,57 @@
 
 + **spring**
   + [由for update引发的血案](https://mp.weixin.qq.com/s?__biz=MzA3ODQ0Mzg2OA==&mid=2649050551&idx=2&sn=a60c111d936b17a604918226452bef5a&chksm=87534984b024c09253cb1202c2db275824d5b5d832ef15139184ca8392f5c4475183df1dfa75&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192374419&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [9种设计模式在Spring中的运用，一定要非常熟练！](https://mp.weixin.qq.com/s?__biz=MzU3MDc3OTI1NA==&mid=2247486374&idx=2&sn=644cadd4ee41270a4498f0199dd5fd20&chksm=fceb78bfcb9cf1a9595bfcc17d1fcafa7848179094f5c1f9a4a8a86c5aeff93b5422f6995bef&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659015385&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [9种设计模式在Spring中的运用，一定要非常熟练！](https://mp.weixin.qq.com/s?__biz=MzU3MDc3OTI1NA==&mid=2247486374&idx=2&sn=644cadd4ee41270a4498f0199dd5fd20&chksm=fceb78bfcb9cf1a9595bfcc17d1fcafa7848179094f5c1f9a4a8a86c5aeff93b5422f6995bef&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659015385&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [一口气说出 6种 @Transactional 注解失效场景](https://mp.weixin.qq.com/s?__biz=Mzg3MjA4MTExMw==&mid=2247488244&idx=1&sn=bf2c3990ce11fe46766c795537e2f078&chksm=cef5e142f98268548d89f4e42a8b5c0ee679f80faab382c0d13e809816cfb4ae6dcc4ac4e2de&mpshare=1&scene=23&srcid=&sharer_sharetime=1586212686462&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-  
 + **SpringBoot**
   + [如何处理SpringBoot全局异常与数据校验？](https://www.wukong.com/question/6638093538473017614/)
   + [SpringBoot 深度调优，让你的项目飞起来！](https://mp.weixin.qq.com/s?__biz=MzU2NjIzNDk5NQ==&mid=2247487954&idx=1&sn=2426451f3bd83161cfe1237f82d6b448&chksm=fcaecbcecbd942d808c25360362f5f927d49c691c9f50e90c3c2d0edab3dd606e50dca89a7e2&mpshare=1&scene=23&srcid=&sharer_sharetime=1572191156251&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [史上最全的延迟任务实现方式汇总！附代码（强烈推荐）](https://mp.weixin.qq.com/s?__biz=MzU1NTkwODE4Mw==&mid=2247485051&idx=1&sn=c35f765d8538d17b94d3cfbb8360ba43&chksm=fbcc6b43ccbbe2553069fd12401456f806b27ec97c2bfaffd85e3f2060fd8e48912e05c6717d&mpshare=1&scene=23&srcid=&sharer_sharetime=1586822677173&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [后端开发实践系列——Spring Boot项目模板](https://mp.weixin.qq.com/s?__biz=MzI2OTQ4OTQ1NQ==&mid=2247487322&idx=2&sn=5c9b4dd560460ded652a2e8ed9b23d58&chksm=eadecb1adda9420cd3bf7f62b94eaaf7f65ad5b8c87c86411f4b337f5eac652fad1d6855744c&mpshare=1&scene=23&srcid=&sharer_sharetime=1574563189752&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [老王，快给你的SpringBoot做个埋点监控吧！](https://www.toutiao.com/a6811342790975291917/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1586042972&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2020040507293201012903209419A6ABD6&group_id=6811342790975291917)
-  + 
+  + [Spring Boot 异步请求和异步调用](https://mp.weixin.qq.com/s?__biz=MzU3NDAxMzU1Nw==&mid=2247491077&idx=1&sn=bbd5eb3084e0a95aded05c4399b54937&chksm=fd39b71fca4e3e098e779251a7063c1e442b3c0ad0a1c9452985d8a298c852802fd876374661&mpshare=1&scene=23&srcid=&sharer_sharetime=1587735031528&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [芋道 Spring Boot 自动配置原理](https://mp.weixin.qq.com/s?__biz=MzUxOTc4NjEyMw==&mid=2247486299&idx=2&sn=6949434fb39ccd3a555a69a1a8353750&chksm=f9f510bfce8299a9f1336f8296cc6f5d5fc81b16788b39442c30c88fb4d8f5b45f8eb7cc9a25&mpshare=1&scene=23&srcid=&sharer_sharetime=1587913502355&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + **SpringCloud**
   + [Spring Cloud异步场景分布式事务怎样做？试试RocketMQ](https://www.toutiao.com/a6740253327365243400/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1569930120&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019100119420001001104821917F0F08A&group_id=6740253327365243400)
   + [面试官最常问的 Spring Cloud 面试题](https://mp.weixin.qq.com/s?__biz=MzAxNDMwMTMwMw==&mid=2247493890&idx=2&sn=0ceb9977f8d5c77e2f4bf3fc3f07782d&chksm=9b97c81aace0410cf7567bfdc643a397512ad58b412989e975f925ca1485b45f133241c23aed&mpshare=1&scene=23&srcid=&sharer_sharetime=1580804875535&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [对于注册中心，ZooKeeper、Eureka 哪个更合适？](https://mp.weixin.qq.com/s?__biz=MzI2NjE1OTMxMw==&mid=2247488225&idx=1&sn=8d6124bffba2c71ce36c144a15a97390&chksm=ea93075fdde48e495060c89413fba37ed470df628d0555b2e365095aad4aae94e29ddfaa918f&mpshare=1&scene=23&srcid=&sharer_sharetime=1585110350913&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
   + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s?__biz=MzIxMjU5NjEwMA==&mid=2247485218&idx=1&sn=9f95de60cee3e8fc783c591f4585fa90&chksm=9742e3c9a0356adf711918a0837f2987980fdeb3f1e61caf386118a6179fd65a102bb51cd8a0&mpshare=1&scene=23&srcid=&sharer_sharetime=1586041478793&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ MyBatis
+  + [面试篇 | 你能说说MyBatis拦截器原理吗？](https://mp.weixin.qq.com/s?__biz=MzU2NzY3MjU4NA==&mid=2247489509&idx=2&sn=ded1ee46ef39cafabe5f66c31c88f551&chksm=fc98fd82cbef7494f85bc97204312eb27b5a81a2f305c606a4f1dd99d1da0bcde3e1f17458f8&mpshare=1&scene=23&srcid=&sharer_sharetime=1587913484667&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 ### 并发
 
-+ [高并发下的接口幂等性解决方案！](https://mp.weixin.qq.com/s?__biz=MzUxOTAxODc2Mg==&mid=2247486497&idx=1&sn=7dfab33446b66e9d4c0a846d338f5e8e&chksm=f9814c44cef6c5520b7336f8f9c6ece82c8ba02a866804aab430a8f19b4e32973f4f8fe97bb0&mpshare=1&scene=23&srcid=&sharer_sharetime=1584012591787&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [【案例分析】分布式系统的接口幂等性设计！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247486493&idx=1&sn=3887354ecbce3e537f1f4205f1a42552&chksm=fba6e41eccd16d08dd103289bb67f8fecb352681762d983d4eba3a3a8050592637040940efb2&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192115383&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [防重复提交解决方案！史上最全原理解析！](https://www.toutiao.com/a6691443703715725832/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1577899849&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=202001020130490101290350941EDEDD22&group_id=6691443703715725832)
-+ [使用 ThreadLocal 一次解决老大难问题！](https://mp.weixin.qq.com/s?__biz=MjM5OTMyNzQzMg==&mid=2257485187&idx=1&sn=731df4dd6bdecf7d20e858cd642de1b4&chksm=a447fe24933077326ac84596d7713d61ece6e95b32bfdb9fc0bac6464f964e4f2ce6193a6038&mpshare=1&scene=23&srcid=&sharer_sharetime=1578843452515&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [深入浅出 CAS](https://mp.weixin.qq.com/s?__biz=MzU0MDEwMjgwNA==&mid=2247486495&idx=1&sn=593640d5dfdc766fa9cf8bf2287e711c&chksm=fb3f15e4cc489cf265543978950f78086093310b0882ac6cb57ed0b635771ab156a0d4ea6169&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323683811&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [面试官：双重检查锁为什么要使用 volatile 字段?](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg==&mid=2247485173&idx=1&sn=32092778a3f9c5c130f8d0a4ab5f74d5&chksm=fca4f2dacbd37bcc1572d0ea31a451af7f42d139232bc496ab371764675d048c3f8d1e4e4697&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323499899&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [【万字长文】高并发中的线程通信，看这一篇就够了！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247486748&idx=1&sn=806557a1e56a5f8015ccdd97d01d7092&chksm=fba6e51fccd16c096ac98feb193b6c853c3342d26bca9264610c685356c23f0e1953f59e8ec9&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323253344&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [多线程整体阅览](https://mp.weixin.qq.com/s?__biz=MzU2NzY3MjU4NA==&mid=2247487692&idx=2&sn=5bde107ef150d4f61bc3ab84761121f3&chksm=fc98faabcbef73bd4715436db1be2d814242025e0e4b01e3d0a119021eb716d7ad0003055ee2&mpshare=1&scene=23&srcid=&sharer_sharetime=1574869212884&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [深度解读 Java 线程池设计思想及源码实现](https://mp.weixin.qq.com/s?__biz=MzUxNDA1NDI3OA==&mid=2247486041&idx=1&sn=2bc12fd0b57bedb84eb11aca8a574306&chksm=f94a8bb0ce3d02a6e85a4115b85b4b410014470c6b53a9a6d413881fdf7431857a5fd62991f1&mpshare=1&scene=23&srcid=&sharer_sharetime=1573741165614&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [如何自己手写一个热加载（附源码）](https://mp.weixin.qq.com/s?__biz=MzI0MjQxNjAyOQ==&mid=2247485565&idx=4&sn=e0044f82399b8f29525e678d0f1187ac&chksm=e97de88fde0a6199b32d7c6c8ad22dd88af260edb42e9fb5ee91361bab8e966720dc3f8ea153&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192645412&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [Java 并发高频面试题：聊聊你对 AQS 的理解？](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247486377&idx=1&sn=37cfeceaf6486e55e54a6564bd007755&chksm=fba6e3aaccd16abc94bc8f491a0e0240f049cb1d995291006d3aa197abc90ee3fc5593abfbc3&mpshare=1&scene=23&srcid=&sharer_sharetime=1570424683747&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [面试 | 创建多少个线程合适，该怎么回答？](https://mp.weixin.qq.com/s?__biz=MzAxODcyNjEzNQ==&mid=2247490111&idx=2&sn=e1b114c9a8f0275e03318dc745527dc2&chksm=9bd0b7a7aca73eb1e7af02d8e0b04ab37cda5d2c30f97373852a539869424d12ea091e820dae&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659270801&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [深入分析线程池的实现原理](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650239316&idx=1&sn=b56c14b07e027084ff5c0936b3ed9bd5&chksm=8f5a1b08b82d921e9932e6b06710c87600efde50b697ea7153ef5815997badbd01e188b5e5ec&mpshare=1&scene=23&srcid=&sharer_sharetime=1586695957529&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [通俗易懂，常用线程池执行的-流程图](https://mp.weixin.qq.com/s?__biz=MzA4NDc2MDQ1Nw==&mid=2650242752&idx=1&sn=66ec564210cd39ce4e2b50964dab9e9b&chksm=87e19c26b0961530c881e0fae46e4f7f71b5b732d0c36b662abdfe376c1c64be081c6587fef3&mpshare=1&scene=23&srcid=&sharer_sharetime=1570423704399&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [Java中所有锁介绍](https://mp.weixin.qq.com/s?__biz=MzA5ODAwOTQ1NA==&mid=2652090875&idx=2&sn=78526ccb14ab7acec507059e1dcbb076&chksm=8b7f39fabc08b0ecb15435d79feb55f34ed1463af8bd79403fbd0b5f67bafabbd83e741c88fb&mpshare=1&scene=23&srcid=&sharer_sharetime=1567704384110&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [Java 并发异步编程，原来十个接口的活现在只需要一个接口就搞定!](https://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247490293&idx=1&sn=3f3f63272180704ce24262a71ee55814&chksm=ea5cd793dd2b5e856c82fd2162bca38afd1c36d8e3b7659ba11bb197afaae37cb1223975d000&mpshare=1&scene=23&srcid=&sharer_sharetime=1586660006130&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [>>>>1<<<<如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答。](https://www.cnblogs.com/thisiswhy/p/12690630.html)
++ **锁**
+
+  + [深入浅出 CAS](https://mp.weixin.qq.com/s?__biz=MzU0MDEwMjgwNA==&mid=2247486495&idx=1&sn=593640d5dfdc766fa9cf8bf2287e711c&chksm=fb3f15e4cc489cf265543978950f78086093310b0882ac6cb57ed0b635771ab156a0d4ea6169&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323683811&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [面试官：双重检查锁为什么要使用 volatile 字段?](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg==&mid=2247485173&idx=1&sn=32092778a3f9c5c130f8d0a4ab5f74d5&chksm=fca4f2dacbd37bcc1572d0ea31a451af7f42d139232bc496ab371764675d048c3f8d1e4e4697&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323499899&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [Java中所有锁介绍](https://mp.weixin.qq.com/s?__biz=MzA5ODAwOTQ1NA==&mid=2652090875&idx=2&sn=78526ccb14ab7acec507059e1dcbb076&chksm=8b7f39fabc08b0ecb15435d79feb55f34ed1463af8bd79403fbd0b5f67bafabbd83e741c88fb&mpshare=1&scene=23&srcid=&sharer_sharetime=1567704384110&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [面试官和我扯了半个小时的synchronized，最后他输了](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247489250&idx=1&sn=d6213b4c941fba79ef8eaa4a4e42bffd&chksm=96cd56aea1badfb84f34268d70f0d8824ba749f98b752ff0837434e49ca63629d84f090e5ca9&mpshare=1&scene=23&srcid=&sharer_sharetime=1587814422762&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
++ **线程&线程池**
+
+  + [使用 ThreadLocal 一次解决老大难问题！](https://mp.weixin.qq.com/s?__biz=MjM5OTMyNzQzMg==&mid=2257485187&idx=1&sn=731df4dd6bdecf7d20e858cd642de1b4&chksm=a447fe24933077326ac84596d7713d61ece6e95b32bfdb9fc0bac6464f964e4f2ce6193a6038&mpshare=1&scene=23&srcid=&sharer_sharetime=1578843452515&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [深入分析线程池的实现原理](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650239316&idx=1&sn=b56c14b07e027084ff5c0936b3ed9bd5&chksm=8f5a1b08b82d921e9932e6b06710c87600efde50b697ea7153ef5815997badbd01e188b5e5ec&mpshare=1&scene=23&srcid=&sharer_sharetime=1586695957529&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [多线程整体阅览](https://mp.weixin.qq.com/s?__biz=MzU2NzY3MjU4NA==&mid=2247487692&idx=2&sn=5bde107ef150d4f61bc3ab84761121f3&chksm=fc98faabcbef73bd4715436db1be2d814242025e0e4b01e3d0a119021eb716d7ad0003055ee2&mpshare=1&scene=23&srcid=&sharer_sharetime=1574869212884&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [深度解读 Java 线程池设计思想及源码实现](https://mp.weixin.qq.com/s?__biz=MzUxNDA1NDI3OA==&mid=2247486041&idx=1&sn=2bc12fd0b57bedb84eb11aca8a574306&chksm=f94a8bb0ce3d02a6e85a4115b85b4b410014470c6b53a9a6d413881fdf7431857a5fd62991f1&mpshare=1&scene=23&srcid=&sharer_sharetime=1573741165614&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [通俗易懂，常用线程池执行的-流程图](https://mp.weixin.qq.com/s?__biz=MzA4NDc2MDQ1Nw==&mid=2650242752&idx=1&sn=66ec564210cd39ce4e2b50964dab9e9b&chksm=87e19c26b0961530c881e0fae46e4f7f71b5b732d0c36b662abdfe376c1c64be081c6587fef3&mpshare=1&scene=23&srcid=&sharer_sharetime=1570423704399&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [面试 | 创建多少个线程合适，该怎么回答？](https://mp.weixin.qq.com/s?__biz=MzAxODcyNjEzNQ==&mid=2247490111&idx=2&sn=e1b114c9a8f0275e03318dc745527dc2&chksm=9bd0b7a7aca73eb1e7af02d8e0b04ab37cda5d2c30f97373852a539869424d12ea091e820dae&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659270801&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [>>>>1<<<<如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答。](https://www.cnblogs.com/thisiswhy/p/12690630.html)
+  + [数据库连接池到底应该设多大？](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247485537&idx=1&sn=90e631c1d74620a615e5c3096af5427b&chksm=fd54d8e7ca2351f136e0ca4f120d439251a09fe0fb9ac85705785ac4274b0fc40b3f0d54fb77&mpshare=1&scene=23&srcid=&sharer_sharetime=1587814676116&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
++ **方案**
+  + [高并发下的接口幂等性解决方案！](https://mp.weixin.qq.com/s?__biz=MzUxOTAxODc2Mg==&mid=2247486497&idx=1&sn=7dfab33446b66e9d4c0a846d338f5e8e&chksm=f9814c44cef6c5520b7336f8f9c6ece82c8ba02a866804aab430a8f19b4e32973f4f8fe97bb0&mpshare=1&scene=23&srcid=&sharer_sharetime=1584012591787&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [【案例分析】分布式系统的接口幂等性设计！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247486493&idx=1&sn=3887354ecbce3e537f1f4205f1a42552&chksm=fba6e41eccd16d08dd103289bb67f8fecb352681762d983d4eba3a3a8050592637040940efb2&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192115383&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [防重复提交解决方案！史上最全原理解析！](https://www.toutiao.com/a6691443703715725832/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1577899849&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=202001020130490101290350941EDEDD22&group_id=6691443703715725832)
+  + [【万字长文】高并发中的线程通信，看这一篇就够了！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247486748&idx=1&sn=806557a1e56a5f8015ccdd97d01d7092&chksm=fba6e51fccd16c096ac98feb193b6c853c3342d26bca9264610c685356c23f0e1953f59e8ec9&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323253344&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
++ **其他**
+
+  + [Java 并发高频面试题：聊聊你对 AQS 的理解？](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247486377&idx=1&sn=37cfeceaf6486e55e54a6564bd007755&chksm=fba6e3aaccd16abc94bc8f491a0e0240f049cb1d995291006d3aa197abc90ee3fc5593abfbc3&mpshare=1&scene=23&srcid=&sharer_sharetime=1570424683747&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
+  + [Java 并发异步编程，原来十个接口的活现在只需要一个接口就搞定!](https://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247490293&idx=1&sn=3f3f63272180704ce24262a71ee55814&chksm=ea5cd793dd2b5e856c82fd2162bca38afd1c36d8e3b7659ba11bb197afaae37cb1223975d000&mpshare=1&scene=23&srcid=&sharer_sharetime=1586660006130&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
+  
 
 ### JVM
 
@@ -211,6 +264,8 @@
 + [PDD面试题：new一个对象的过程中发生了什么？](https://mp.weixin.qq.com/s?__biz=MzU5ODUwNzY1Nw==&mid=2247484919&idx=1&sn=e84cadfb38f18e088466c9ffb660c7cc&chksm=fe426c11c935e50711412fb1b69cfff9e4448d1a0fd5949d4019beaf6ea9d6476257f3e6d6d0&mpshare=1&scene=23&srcid=&sharer_sharetime=1573060040166&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [从JVM入手，聊聊Java的学习和复习！](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650124986&idx=2&sn=0719768518af058bc8a2db0b4eef1845&chksm=f36baf9bc41c268d5bf135246879bb5954e86c9379ef2701df27e958a2853ecbe7b261438f88&mpshare=1&scene=23&srcid=&sharer_sharetime=1572191989923&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [面试官:你说你熟悉jvm?那你讲一下并发的可达性分析](https://mp.weixin.qq.com/s?__biz=MjM5OTMyNzQzMg==&mid=2257485700&idx=1&sn=d865273b9669d7b9eb47aa6e4a3b2fe9&chksm=a447fc239330753522675694d2fe248788bdee10ad0f4028686fc3ebbe469a6f4bdf84305d52&mpshare=1&scene=23&srcid=&sharer_sharetime=1586661536757&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [面试时最怕问到 Java 虚拟机内存模型？这篇文章我发晚了](https://mp.weixin.qq.com/s?__biz=MjM5OTMyNzQzMg==&mid=2257485773&idx=1&sn=3f2ef958ef2869fed5f5c6b66cbea6b7&chksm=a447fc6a9330757c3f0bf7f70bae06b74e594a21f6dbaa9d0e3b8097f6da2d329eeeb8e42541&mpshare=1&scene=23&srcid=&sharer_sharetime=1587269294012&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [如何自己手写一个热加载（附源码）](https://mp.weixin.qq.com/s?__biz=MzI0MjQxNjAyOQ==&mid=2247485565&idx=4&sn=e0044f82399b8f29525e678d0f1187ac&chksm=e97de88fde0a6199b32d7c6c8ad22dd88af260edb42e9fb5ee91361bab8e966720dc3f8ea153&mpshare=1&scene=23&srcid=&sharer_sharetime=1572192645412&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 ### 网络
 
@@ -223,21 +278,26 @@
 
 ### 分布式
 
-+ [硬货 | 浅谈 CAP 和 Paxos 共识算法](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247489424&idx=1&sn=48a2eae2af1be839263c8b95f4c1a78a&chksm=fb0bfd04cc7c741266cc9e4bf382395c34411780ae0b73f9e1ec77dcee93cefe2a5445345579&mpshare=1&scene=23&srcid=&sharer_sharetime=1584012947665&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [由Seata看分布式事务取舍](https://www.jianshu.com/p/917cb4bdaa03)
-+ [分布式事务方案这么多，到底应该如何选型？](https://mp.weixin.qq.com/s?__biz=MzA3MjY1MTQwNQ==&mid=2649830869&idx=2&sn=651ea0ad3b31c94fa322802375da1ad6&chksm=871e9237b0691b21c007a6b718b9d742023345bc7a9491037578aad5439d0bf14b5a276eabe3&mpshare=1&scene=23&srcid=&sharer_sharetime=1570424836362&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [分布式事务的四种解决方案，值得参考！](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247491896&idx=2&sn=ef545ef0add3fd23f71092ca90a24825&chksm=eb50640edc27ed1857931d36ea80fb75b8b5921476588dd4973c1c63225310a87e43ddb8b4dc&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323390721&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [常用的分布式事务解决方案介绍有多少种？](https://mp.weixin.qq.com/s?__biz=MzA4MTk3MjI0Mw==&mid=2247487194&idx=1&sn=22750a64c1246443081dbba06a552759&chksm=9f8d93a6a8fa1ab09df1bc7d36c1e12369e396eafd2530c45de91bdc8c15ec5aee76c982c7a5&mpshare=1&scene=23&srcid=&sharer_sharetime=1574868602226&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [原创 | 分布式事务科普（终结篇）](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247489868&idx=1&sn=ef0b6afc60a89d49959ddb414ab20068&chksm=fb0bf3d8cc7c7ace7948f14b58d0a1562cf1449a2767964836eb47d669915206079760b0cb8e&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659466947&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [他来了，他终于来了，全网最全分布式解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMjEwMzQ5MA==&mid=2448890020&idx=1&sn=e575c33997e26a9054c993d9357e1c58&chksm=8fb54289b8c2cb9f32c443380d280b4cf40f5a102f4be9087bd15b4ed99180839832707a8171&mpshare=1&scene=23&srcid=&sharer_sharetime=1586661869270&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [分布式事务：TCC 两阶段异步补偿型](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651485675&idx=1&sn=da1cc8b9ea1b21065028316e84278226&chksm=bd2519948a5290823d83a4cf1c416036f7d73f88f96e2e0562e435c913f1bfbcae19337c9a2e&mpshare=1&scene=23&srcid=&sharer_sharetime=1575935262025&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [支付核心系统设计：Airbnb的分布式事务方案简介](https://www.toutiao.com/a6738546733745193483/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1569929666&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019100119342601001203316600EF1B4F&group_id=6738546733745193483)
-+ [并发环境下，先操作数据库还是先操作缓存？](https://mp.weixin.qq.com/s?__biz=MzIwOTE2MzU4NA==&mid=2247483704&idx=1&sn=696daa11dfd6ef455459c328a6e7734f&chksm=97794517a00ecc01979cac2be25cfd39bd405c92947ae327641a6f65df4e8ff340a51eaed4eb&mpshare=1&scene=23&srcid=1124jEcIGRlTge81YxcboojC&sharer_sharetime=1574562945271&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [高频面试题：如何保证缓存与数据库的双写一致性？](https://mp.weixin.qq.com/s?__biz=MzA3MjMzODExOA==&mid=2651718336&idx=1&sn=33eb73e4de820a2a436ca22329e224bd&chksm=84e57d69b392f47f02d6b2e72e86197e788bb3c2deb56936afe909c53ca2fb5875c2e4a2cf27&mpshare=1&scene=23&srcid=&sharer_sharetime=1581606743549&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [分布式系统ID的生成方法之UUID、数据库、算法、Redis、Leaf方案](https://mp.weixin.qq.com/s?__biz=MzIxODQxMjc0MA==&mid=2247500556&idx=1&sn=4171168da24c45e9357f8abe0f1d013d&chksm=97e860a7a09fe9b1e0988225e2fb09340b5a3fb777ea56de3078527969bc7c70ff255ea9e1c4&mpshare=1&scene=23&srcid=&sharer_sharetime=1580818760043&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [如何在分布式场景下生成全局唯一 ID ？](https://mp.weixin.qq.com/s?__biz=MzIxMzk3Mjg5MQ==&mid=2247484847&idx=1&sn=bb7f4c22c17ba5f518bebd449f4b13f8&chksm=97afe75ba0d86e4dae409bbc834b0d4ae960619a02145bc6d4e17bd6ce3f482e6102de072837&mpshare=1&scene=23&srcid=&sharer_sharetime=1580741354149&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [经验分享：分布式微服务应用如何实现最终一致性？](https://www.toutiao.com/a6759737710740505101/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1573891764&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019111616092401002004701429EDCC6D&group_id=6759737710740505101)
-+ [分布式定时任务调度系统技术选型](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247487569&idx=2&sn=c062395a8085d291f027955ee68098d0&chksm=fb0bfac5cc7c73d329219dca5ff6e81a7eca920025fa378595005ee36d08407d4d3facdec126&mpshare=1&scene=23&srcid=&sharer_sharetime=1570425964937&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **理论**
+  + [硬货 | 浅谈 CAP 和 Paxos 共识算法](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247489424&idx=1&sn=48a2eae2af1be839263c8b95f4c1a78a&chksm=fb0bfd04cc7c741266cc9e4bf382395c34411780ae0b73f9e1ec77dcee93cefe2a5445345579&mpshare=1&scene=23&srcid=&sharer_sharetime=1584012947665&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [分布式定时任务调度系统技术选型](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247487569&idx=2&sn=c062395a8085d291f027955ee68098d0&chksm=fb0bfac5cc7c73d329219dca5ff6e81a7eca920025fa378595005ee36d08407d4d3facdec126&mpshare=1&scene=23&srcid=&sharer_sharetime=1570425964937&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [高并发之 API 接口，分布式，防刷限流，如何做？](https://mp.weixin.qq.com/s?__biz=MzkzODAwMTQwNw==&mid=2247489917&idx=1&sn=093f5e9055bc153942f48d5184a29f51&chksm=c2878fedf5f006fbbe599be2b212ac06e186679ece9beb4dcac05e74b3cb018532aa01423206&mpshare=1&scene=23&srcid=&sharer_sharetime=1588050609569&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **分布式事务**
+  + [由Seata看分布式事务取舍](https://www.jianshu.com/p/917cb4bdaa03)
+  + [分布式事务方案这么多，到底应该如何选型？](https://mp.weixin.qq.com/s?__biz=MzA3MjY1MTQwNQ==&mid=2649830869&idx=2&sn=651ea0ad3b31c94fa322802375da1ad6&chksm=871e9237b0691b21c007a6b718b9d742023345bc7a9491037578aad5439d0bf14b5a276eabe3&mpshare=1&scene=23&srcid=&sharer_sharetime=1570424836362&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [分布式事务的四种解决方案，值得参考！](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247491896&idx=2&sn=ef545ef0add3fd23f71092ca90a24825&chksm=eb50640edc27ed1857931d36ea80fb75b8b5921476588dd4973c1c63225310a87e43ddb8b4dc&mpshare=1&scene=23&srcid=&sharer_sharetime=1576323390721&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [常用的分布式事务解决方案介绍有多少种？](https://mp.weixin.qq.com/s?__biz=MzA4MTk3MjI0Mw==&mid=2247487194&idx=1&sn=22750a64c1246443081dbba06a552759&chksm=9f8d93a6a8fa1ab09df1bc7d36c1e12369e396eafd2530c45de91bdc8c15ec5aee76c982c7a5&mpshare=1&scene=23&srcid=&sharer_sharetime=1574868602226&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [原创 | 分布式事务科普（终结篇）](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247489868&idx=1&sn=ef0b6afc60a89d49959ddb414ab20068&chksm=fb0bf3d8cc7c7ace7948f14b58d0a1562cf1449a2767964836eb47d669915206079760b0cb8e&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659466947&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [他来了，他终于来了，全网最全分布式解决方案](https://www.toutiao.com/a6814688743732019725/)
+  + [分布式事务：TCC 两阶段异步补偿型](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651485675&idx=1&sn=da1cc8b9ea1b21065028316e84278226&chksm=bd2519948a5290823d83a4cf1c416036f7d73f88f96e2e0562e435c913f1bfbcae19337c9a2e&mpshare=1&scene=23&srcid=&sharer_sharetime=1575935262025&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [支付核心系统设计：Airbnb的分布式事务方案简介](https://www.toutiao.com/a6738546733745193483/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1569929666&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019100119342601001203316600EF1B4F&group_id=6738546733745193483)
++ **实践**
+  + [并发环境下，先操作数据库还是先操作缓存？](https://mp.weixin.qq.com/s?__biz=MzIwOTE2MzU4NA==&mid=2247483704&idx=1&sn=696daa11dfd6ef455459c328a6e7734f&chksm=97794517a00ecc01979cac2be25cfd39bd405c92947ae327641a6f65df4e8ff340a51eaed4eb&mpshare=1&scene=23&srcid=1124jEcIGRlTge81YxcboojC&sharer_sharetime=1574562945271&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [高频面试题：如何保证缓存与数据库的双写一致性？](https://mp.weixin.qq.com/s?__biz=MzA3MjMzODExOA==&mid=2651718336&idx=1&sn=33eb73e4de820a2a436ca22329e224bd&chksm=84e57d69b392f47f02d6b2e72e86197e788bb3c2deb56936afe909c53ca2fb5875c2e4a2cf27&mpshare=1&scene=23&srcid=&sharer_sharetime=1581606743549&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [分布式系统ID的生成方法之UUID、数据库、算法、Redis、Leaf方案](https://mp.weixin.qq.com/s?__biz=MzIxODQxMjc0MA==&mid=2247500556&idx=1&sn=4171168da24c45e9357f8abe0f1d013d&chksm=97e860a7a09fe9b1e0988225e2fb09340b5a3fb777ea56de3078527969bc7c70ff255ea9e1c4&mpshare=1&scene=23&srcid=&sharer_sharetime=1580818760043&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [如何在分布式场景下生成全局唯一 ID ？](https://mp.weixin.qq.com/s?__biz=MzIxMzk3Mjg5MQ==&mid=2247484847&idx=1&sn=bb7f4c22c17ba5f518bebd449f4b13f8&chksm=97afe75ba0d86e4dae409bbc834b0d4ae960619a02145bc6d4e17bd6ce3f482e6102de072837&mpshare=1&scene=23&srcid=&sharer_sharetime=1580741354149&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [一口气说出 9 种分布式 ID 生成方式，面试官有点懵了](https://mp.weixin.qq.com/s?__biz=MzU3NDE0NjMwNw==&mid=2247486865&idx=1&sn=f05c1a39233172c23782048185b1f1f9&chksm=fd379ffdca4016eb3ffa3bdcf3ee97bde5cc4331eb4f5fca9edb21aab2d473839b404f8cd637&mpshare=1&scene=23&srcid=&sharer_sharetime=1587814618338&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [经验分享：分布式微服务应用如何实现最终一致性？](https://www.toutiao.com/a6759737710740505101/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1573891764&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=2019111616092401002004701429EDCC6D&group_id=6759737710740505101)
 
 ### Web
 
@@ -247,9 +307,14 @@
 
 ### 消息队列
 
-+ [17 个方面，综合对比 Kafka、RabbitMQ、RocketMQ、ActiveMQ 四个分布式消息队列](https://mp.weixin.qq.com/s?__biz=MzI0MjQxNjAyOQ==&mid=2247485754&idx=2&sn=cbd1b715f89ce5ca9f698808fefda3ed&chksm=e97de9c8de0a60de8a0a4d2e4b08523ac9b2ade4cc047a83772332e53534dbc44406f42e13cd&mpshare=1&scene=23&srcid=&sharer_sharetime=1573148406077&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [SpringBoot + RabbitMQ ，保证消息100% 投递成功并被消费（附源码）](https://mp.weixin.qq.com/s?__biz=MzI1NTI3MzEwMg==&mid=2247486974&idx=1&sn=1a11dc5f8246a29cf299f7df818d1e67&chksm=ea393c1fdd4eb5092d5c468b623762547055a1e78c449666423a65a906b0b4ef20814c5002c2&mpshare=1&scene=23&srcid=&sharer_sharetime=1585109464113&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [聊一聊kafka如何保证消息的可靠性与一致性](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247487913&idx=1&sn=df133bd47d128eefc3e3a96b844a5904&chksm=ebb75805dcc0d113ec50671a55ab8da65d933ab98cd20d47b41631ac72789ea37e427362b6c9&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659872259&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **综合**
+  + [17 个方面，综合对比 Kafka、RabbitMQ、RocketMQ、ActiveMQ 四个分布式消息队列](https://mp.weixin.qq.com/s?__biz=MzI0MjQxNjAyOQ==&mid=2247485754&idx=2&sn=cbd1b715f89ce5ca9f698808fefda3ed&chksm=e97de9c8de0a60de8a0a4d2e4b08523ac9b2ade4cc047a83772332e53534dbc44406f42e13cd&mpshare=1&scene=23&srcid=&sharer_sharetime=1573148406077&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **RabbitMQ**
+  + [SpringBoot + RabbitMQ ，保证消息100% 投递成功并被消费（附源码）](https://mp.weixin.qq.com/s?__biz=MzI1NTI3MzEwMg==&mid=2247486974&idx=1&sn=1a11dc5f8246a29cf299f7df818d1e67&chksm=ea393c1fdd4eb5092d5c468b623762547055a1e78c449666423a65a906b0b4ef20814c5002c2&mpshare=1&scene=23&srcid=&sharer_sharetime=1585109464113&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **kafka**
+  + [聊一聊kafka如何保证消息的可靠性与一致性](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247487913&idx=1&sn=df133bd47d128eefc3e3a96b844a5904&chksm=ebb75805dcc0d113ec50671a55ab8da65d933ab98cd20d47b41631ac72789ea37e427362b6c9&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659872259&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [Kafka零数据丢失的配置方案](https://mp.weixin.qq.com/s?__biz=MzIzODIzNzE0NQ==&mid=2654419241&idx=1&sn=282f997491c63b1511db4b8a95bdc9f5&chksm=f2fffd9fc58874898fe60b5df4a8e73b2ef77324eb16fb8b941c2d43c968408b5b3f81046e1d&mpshare=1&scene=23&srcid=&sharer_sharetime=1586909763266&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [一篇文章带你逆袭 Kafka](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649705039&idx=1&sn=6e052b85212496d8eeff3b614496f51b&chksm=8893752cbfe4fc3ae77c99b6aa4b068aced9d39a64c72698e2f105954eaf8fee2ef4bd291473&mpshare=1&scene=23&srcid=&sharer_sharetime=1587256827949&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 ### Redis
 
@@ -265,40 +330,58 @@
 + [面试官：知道为什么RedisCluster有16384个槽么？](https://www.toutiao.com/a6730498709995389448/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1567271858&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=201909010117380100220620343845574&group_id=6730498709995389448)
 + [大厂Redis 性能优化的 13 条军规！收好了](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247488891&idx=2&sn=3f476920be9ce1485f4e28f565eca108&chksm=96cd5537a1badc211b6844f769f91a6e674a9c2b12f6c36c8b4248b3e874428cf62ff7faafbb&mpshare=1&scene=23&srcid=&sharer_sharetime=1585109418588&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [为什么 Redis 单线程能支撑高并发？](https://mp.weixin.qq.com/s?__biz=MzU5MTg0MDI3NA==&mid=2247484697&idx=1&sn=7be4ab0fd4840e87c8787a06a0857000&chksm=fe299064c95e1972dc3abeb5e2be32c0fca2f6a597635a2824a251bf7aebabd41c9231627612&mpshare=1&scene=23&srcid=&sharer_sharetime=1586661182559&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [高可用Redis服务架构分析与搭建](https://www.cnblogs.com/xuning/p/8464625.html)
++ [阿里面试官这样问Redis基础，我对答如流](https://www.toutiao.com/a6807777230354121223/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1587581995&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=202004230259540101310751661F0583DB&group_id=6807777230354121223)
++ [简明的图解Redis持久化：RDB和AOF](https://www.toutiao.com/a6817600796356510220/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1587578961&app=news_article&utm_source=mobile_qq&utm_medium=toutiao_android&req_id=202004230209210101290371371206AD86&group_id=6817600796356510220)
 
 ### ZooKeeper
 
 + [阿里巴巴为什么不用 ZooKeeper 做服务发现？](https://mp.weixin.qq.com/s?__biz=MzIyODE5NjUwNQ==&mid=2653319476&idx=1&sn=2602602ee9abb7ee4a60cada761c514c&chksm=f38778c2c4f0f1d4990585b712b8c5f174905a270a667858d5f04a19edb1488442b4cda07818&mpshare=1&scene=23&srcid=&sharer_sharetime=1584421621896&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
-
++ [聊一聊ZooKeeper的顺序一致性](https://mp.weixin.qq.com/s?__biz=MzIzODIzNzE0NQ==&mid=2654419521&idx=1&sn=f52523115a45f88babfeda47a18bbec3&chksm=f2fffef7c58877e173f85a02acf1259d45d190e378055a752107b80f541f179094464648f829&mpshare=1&scene=23&srcid=&sharer_sharetime=1587913375814&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 ### 部署&CI/CD
 
 + [Jenkins 多环境 CI/CD 架构设计](https://mp.weixin.qq.com/s?__biz=MzAxMjEwMzQ5MA==&mid=2448889754&idx=2&sn=89f210bbb99c915d774f37ebd018a684&chksm=8fb54db7b8c2c4a19b19b0963b5f77893702429a8314aeacab8316008c2b2e4d3ba8bbed7f27&mpshare=1&scene=23&srcid=&sharer_sharetime=1584317706402&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [企业生产环境Shell脚本案例分享](https://mp.weixin.qq.com/s?__biz=MzAxMTkwODIyNA==&mid=2247494137&idx=1&sn=972c167bd7cafd463673ca3847681b85&chksm=9bbb4c16acccc500213a06ec1c89ca86359a247fc5c3bb905198362e039401d4ce412ee58e99&mpshare=1&scene=23&srcid=&sharer_sharetime=1580818822321&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-
 + [图文讲解，团队开发中的 Git 最佳实践](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247487597&idx=1&sn=58c249f842fa05699f99d0f1e06a7e8a&chksm=fa496fdccd3ee6ca9548611fee357081732658e77e4c647e483619e89063e7553f2e5209e719&mpshare=1&scene=23&srcid=&sharer_sharetime=1567625401043&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-
 + [jenkins+kubernetes+harbor+gitlab构建企业级devops平台](https://mp.weixin.qq.com/s?__biz=MzU0NjEwMTg4Mg==&mid=2247483962&idx=1&sn=595eac335f7fb523bbb60cbbede109ca&chksm=fb638d2fcc14043990967471ba8a2aaf389ab483594fd81395b5afda1c23a9eff4371df6bca4&mpshare=1&scene=23&srcid=&sharer_sharetime=1585109178567&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [最全教程 | Kubernetes + Jenkins + Helm + Springboot 实践](https://mp.weixin.qq.com/s?__biz=MjM5MzU5NDYwNA==&mid=2247485734&idx=1&sn=a1ad0ff2ac23b2641b13aefe679d2e58&chksm=a695e4a591e26db33cdc800d2002dd2f247b30985f806b5e93a39bd1cbf069077db02c1f04a7&mpshare=1&scene=23&srcid=&sharer_sharetime=1577206928397&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [中小企业如何做运维自动化？](https://mp.weixin.qq.com/s?__biz=MzAxMTkwODIyNA==&mid=2247495002&idx=1&sn=a1d2294df17e336130e16ac02c551bfd&chksm=9bbb48b5acccc1a3abc95c560fe5f6ee7702c0e0ac3c0e7fca8bef208b5db704b421bd7e684f&mpshare=1&scene=23&srcid=&sharer_sharetime=1587734510480&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 ### kubernetes
 
-+ [Kubernetes生态体系落地过程中的选型和踩坑](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649704732&idx=1&sn=cc2f6080ca3bd90d33a2c57d8dbda143&chksm=8893767fbfe4ff693ce3528b29435a0f0217939fc43d901af834bee1f17a334e3e432f086e31&mpshare=1&scene=23&srcid=&sharer_sharetime=1584316621794&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [直击痛点，详解 K8s 日志采集最佳实践](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247489687&idx=1&sn=96212b1ceb2d013b89b54ff6918d7b4a&chksm=fae51358cd929a4eac27c9a2053e2d03b6c6f19e7059f524fbb5cc2920a7db245578987d51b4&mpshare=1&scene=23&srcid=&sharer_sharetime=1584151697516&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [图解 K8S 控制器 Node 生命周期管理](https://mp.weixin.qq.com/s?__biz=MzU4MjQ0MTU4Ng==&mid=2247484663&idx=1&sn=3576e44dfb59631f43b1d5076ef6f511&chksm=fdb90beacace82fc8db3e7f05ed702e5bb76650347f3794b08bacbcf02e88875d5154f5dc13e&mpshare=1&scene=23&srcid=&sharer_sharetime=1584151345017&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [重磅合集 | 31 篇技术文章，带你从零入门 K8s](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247490022&idx=1&sn=0d41a6ca4ce3bd9933a9f4eb3e3ff7a6&chksm=fae51229cd929b3fa28d2ae6a7fd0957bd31073da9f7cc6bd3d8b1a4dce131331ac7e35f2e27&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659312976&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [在容器中使用 Java 的资源分配准则](https://mp.weixin.qq.com/s?__biz=MzI0NjQ0MjMxNA==&mid=2247494913&idx=1&sn=239d7599bb20af3ff2f79ac182884180&chksm=e9bd9d24deca143226ef0b5a7645237fe193a8cfeccf49285fdc22e95b7674e475017b199f25&mpshare=1&scene=23&srcid=&sharer_sharetime=1574184823481&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [Porter：面向裸金属环境的 Kubernetes 开源负载均衡器](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649702824&idx=1&sn=a05669c7645a6de5a0baa5bef6a49d45&chksm=88937ecbbfe4f7dd7673c86d3c8b63e04460f4e95438b8ede28c8e3bdbd02b4cc75a02693f57&mpshare=1&scene=23&srcid=&sharer_sharetime=1567816300143&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [Kubernetes 集群：Node 无法访问 ClusterIP 问题排查](Kubernetes 集群：Node 无法访问 ClusterIP 问题排查)
-+ [用 Kubernetes 资源创建 Grafana Dashboard](https://mp.weixin.qq.com/s?__biz=MzU4MjQ0MTU4Ng==&mid=2247484737&idx=1&sn=dd7b9b064a689d0948801a6465b3dab6&chksm=fdb90a5ccace834a480a60e3feb7f3bf1abf79809ad47c0f4a719589e97bcf18388ee7fa063d&mpshare=1&scene=23&srcid=&sharer_sharetime=1585354906652&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [k8s-No.5-存储篇](https://www.cnblogs.com/mhy-blog/p/10831311.html)
-+ [一文读懂 K8s 持久化存储流程](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247490043&idx=1&sn=c09ad4a9bc790f4b742abd8ca1301ffb&chksm=fae51234cd929b22ee87cdbef7561c1e2ccea6dc64e7a8c0db8cebb712a224ad01082bfff910&mpshare=1&scene=23&srcid=&sharer_sharetime=1586660901743&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [Kube-Proxy IPVS模式的原理与实现](https://mp.weixin.qq.com/s?__biz=MzIzNzU5NTYzMA==&mid=2247489005&idx=1&sn=6871166bf7669872feb66fad25f2ae02&chksm=e8c76b6cdfb0e27a67440ea5807d9e16cc61536401b025d0db836f685a94820af75b9bb7f56b&mpshare=1&scene=23&srcid=&sharer_sharetime=1586658374049&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [从Spring Cloud到Kubernetes的微服务迁移实践](https://mp.weixin.qq.com/s?__biz=MzI5ODQ2MzI3NQ==&mid=2247489282&idx=1&sn=3251bddba4a86a788bbd8c70f51bc3a3&chksm=eca42e46dbd3a750dbdc227e43259324fe34e51b22c09a84a8faa6eb608c7dfe458dd9a0e6b9&mpshare=1&scene=23&srcid=&sharer_sharetime=1586661096508&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
-+ [全网最详细的 K8s Service 不能访问排查流程](https://mp.weixin.qq.com/s?__biz=MzAwNTM5Njk3Mw==&mid=2247488049&idx=1&sn=82cd9a8bd62afec2ef96c2162abe5c14&chksm=9b1c12b3ac6b9ba5645bbd1f0bfe7186bdaf974af242cff0a645c565f48c40b4226fad199112&mpshare=1&scene=23&srcid=&sharer_sharetime=1586707487243&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **方案**
+  + [Kubernetes生态体系落地过程中的选型和踩坑](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649704732&idx=1&sn=cc2f6080ca3bd90d33a2c57d8dbda143&chksm=8893767fbfe4ff693ce3528b29435a0f0217939fc43d901af834bee1f17a334e3e432f086e31&mpshare=1&scene=23&srcid=&sharer_sharetime=1584316621794&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [从Spring Cloud到Kubernetes的微服务迁移实践](https://mp.weixin.qq.com/s?__biz=MzI5ODQ2MzI3NQ==&mid=2247489282&idx=1&sn=3251bddba4a86a788bbd8c70f51bc3a3&chksm=eca42e46dbd3a750dbdc227e43259324fe34e51b22c09a84a8faa6eb608c7dfe458dd9a0e6b9&mpshare=1&scene=23&srcid=&sharer_sharetime=1586661096508&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [Kubernetes 容器云平台技术方案](https://mp.weixin.qq.com/s?__biz=MzAwNTM5Njk3Mw==&mid=2247488059&idx=1&sn=fb5ab3437640857a768c49807c5111eb&chksm=9b1c12b9ac6b9baf7d96d1299594a0e816a8aa5d7a0dfe62b53a5f036bf7b319d280f241f6ac&mpshare=1&scene=23&srcid=&sharer_sharetime=1586947604065&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+
++ **实践&理论**
+  + [直击痛点，详解 K8s 日志采集最佳实践](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247489687&idx=1&sn=96212b1ceb2d013b89b54ff6918d7b4a&chksm=fae51358cd929a4eac27c9a2053e2d03b6c6f19e7059f524fbb5cc2920a7db245578987d51b4&mpshare=1&scene=23&srcid=&sharer_sharetime=1584151697516&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [图解 K8S 控制器 Node 生命周期管理](https://mp.weixin.qq.com/s?__biz=MzU4MjQ0MTU4Ng==&mid=2247484663&idx=1&sn=3576e44dfb59631f43b1d5076ef6f511&chksm=fdb90beacace82fc8db3e7f05ed702e5bb76650347f3794b08bacbcf02e88875d5154f5dc13e&mpshare=1&scene=23&srcid=&sharer_sharetime=1584151345017&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [在容器中使用 Java 的资源分配准则](https://mp.weixin.qq.com/s?__biz=MzI0NjQ0MjMxNA==&mid=2247494913&idx=1&sn=239d7599bb20af3ff2f79ac182884180&chksm=e9bd9d24deca143226ef0b5a7645237fe193a8cfeccf49285fdc22e95b7674e475017b199f25&mpshare=1&scene=23&srcid=&sharer_sharetime=1574184823481&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [使用Spring Boot Operator部署SpringBoot到K8S](https://mp.weixin.qq.com/s?__biz=MzI5ODQ2MzI3NQ==&mid=2247489313&idx=1&sn=541e76540d4e59cc2400eab53a848c48&chksm=eca42e65dbd3a7739ae4053260cc903e199ca639002ba704b27910e9d0b38024673cdbea0c47&mpshare=1&scene=23&srcid=&sharer_sharetime=1586966653935&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [了解pod和pod的生命周期-这一篇文章就够了](https://mp.weixin.qq.com/s?__biz=MzU0NjEwMTg4Mg==&mid=2247484120&idx=1&sn=b5b7a66c7850c06dc4a0f816dde5defd&chksm=fb638dcdcc1404db84a9cd3df5b0fb8a586cd6b92bbff5dd76b456c9fe4840f1f00aa9edab6f&mpshare=1&scene=23&srcid=&sharer_sharetime=1587516752628&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [从 kubectl top 看 Kubernetes 监控原理](https://mp.weixin.qq.com/s?__biz=MzAwNTM5Njk3Mw==&mid=2247488114&idx=1&sn=8065622a82a3dd20fca9d7b23f4d73bf&chksm=9b1c12f0ac6b9be67cb11ec9db67de8aa322c892e0fe33557f18bd7e2220aa3a750570f15ae1&mpshare=1&scene=23&srcid=&sharer_sharetime=1587733768080&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [Kubernetes运行有状态应用：7项有效注意事项](https://mp.weixin.qq.com/s?__biz=MzIzNzU5NTYzMA==&mid=2247489070&idx=1&sn=b1f1d85900c13fae753a983b0ef1bcb3&chksm=e8c768afdfb0e1b9e89a13bf979d07966d409e2161384d8b0c5d3c42703e0ed0e93c14a60154&mpshare=1&scene=23&srcid=&sharer_sharetime=1587912902474&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **踩坑**
+  + [Kubernetes 集群：Node 无法访问 ClusterIP 问题排查](Kubernetes 集群：Node 无法访问 ClusterIP 问题排查)
+  + [全网最详细的 K8s Service 不能访问排查流程](https://mp.weixin.qq.com/s?__biz=MzAwNTM5Njk3Mw==&mid=2247488049&idx=1&sn=82cd9a8bd62afec2ef96c2162abe5c14&chksm=9b1c12b3ac6b9ba5645bbd1f0bfe7186bdaf974af242cff0a645c565f48c40b4226fad199112&mpshare=1&scene=23&srcid=&sharer_sharetime=1586707487243&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [干货分享丨记一次现网k8s中pod连接数据库异常的问题分析及解决实践](https://mp.weixin.qq.com/s?__biz=MzIzMzk0MDgxNQ==&mid=2247487980&idx=1&sn=ad2ef0753fd7f0b883bbbde2b0d89d79&chksm=e8fca3ccdf8b2adabdcd9fed28aef74eadd04e2d27d6252b9272d2d75bc58ccb9eec79409075&mpshare=1&scene=23&srcid=&sharer_sharetime=1587733692376&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **综合**
+  + [重磅合集 | 31 篇技术文章，带你从零入门 K8s](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247490022&idx=1&sn=0d41a6ca4ce3bd9933a9f4eb3e3ff7a6&chksm=fae51229cd929b3fa28d2ae6a7fd0957bd31073da9f7cc6bd3d8b1a4dce131331ac7e35f2e27&mpshare=1&scene=23&srcid=&sharer_sharetime=1586659312976&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [云原生学习笔记](https://www.yuque.com/baxiaoshi/tyado3)
+  + [云原生技术](http://www.xuyasong.com/?page_id=1827)
++ **开源**
+  + [Porter：面向裸金属环境的 Kubernetes 开源负载均衡器](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649702824&idx=1&sn=a05669c7645a6de5a0baa5bef6a49d45&chksm=88937ecbbfe4f7dd7673c86d3c8b63e04460f4e95438b8ede28c8e3bdbd02b4cc75a02693f57&mpshare=1&scene=23&srcid=&sharer_sharetime=1567816300143&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [用 Kubernetes 资源创建 Grafana Dashboard](https://mp.weixin.qq.com/s?__biz=MzU4MjQ0MTU4Ng==&mid=2247484737&idx=1&sn=dd7b9b064a689d0948801a6465b3dab6&chksm=fdb90a5ccace834a480a60e3feb7f3bf1abf79809ad47c0f4a719589e97bcf18388ee7fa063d&mpshare=1&scene=23&srcid=&sharer_sharetime=1585354906652&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ **存储**
+  + [一文读懂 K8s 持久化存储流程](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247490043&idx=1&sn=c09ad4a9bc790f4b742abd8ca1301ffb&chksm=fae51234cd929b22ee87cdbef7561c1e2ccea6dc64e7a8c0db8cebb712a224ad01082bfff910&mpshare=1&scene=23&srcid=&sharer_sharetime=1586660901743&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
+  + [k8s-No.5-存储篇](https://www.cnblogs.com/mhy-blog/p/10831311.html)
 + **视频**
   + [再也不踩坑的K8S生产实践](http://mudu.tv/watch/5478203)
+  + [Alibaba Cloud Native Day 杭州站（疫情期间线上直播）](https://yq.aliyun.com/live/2509)
+    + ppt:https://yq.aliyun.com/download/4028
 
 ### istio
 
@@ -318,11 +401,13 @@
 ### 经验之谈
 
 + [加入阿里技术团队三年，哪些习惯让我在工作上持续受益？](https://mp.weixin.qq.com/s?__biz=MzIxNTQ0MDQxNg==&mid=2247487518&idx=1&sn=bf7d266250a15105ff5f608ca651ba9f&chksm=97991d51a0ee9447340dfc82a8a5bef8a800b1613de14b41212459b9a64baabb89fee11f5602&mpshare=1&scene=23&srcid=&sharer_sharetime=1585110109421&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
++ [分析开源项目源码，该如何入手分析？](https://mp.weixin.qq.com/s?__biz=MzA5NjMwMDg0Ng==&mid=2455285761&idx=2&sn=61cbcbc19954589db76e6a8c8d11a04d&chksm=871e2a40b069a3565f4ed44e47a75ffd95285b737a2f51a28655702d0fa33660c1b7363d321d&mpshare=1&scene=23&srcid=&sharer_sharetime=1587120532820&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 ### 代码优化
 
 + [恕我直言，在座的各位根本不会写 Java！](https://mp.weixin.qq.com/s?__biz=MzA5MTMyNTI0Nw==&mid=2649790476&idx=1&sn=92ad7eadfbfe82eaf84f852a1b0da111&chksm=887a2e5cbf0da74ae271594688d94d71409f36424cebe719d9dde6f367bc4a24a94db6609907&mpshare=1&scene=23&srcid=&sharer_sharetime=1574869753140&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 + [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名](https://maimai.cn/article/detail?fid=1322396962&efid=d9eTmEr4J_arQFFJ5ugQ4g)
++ [Code Review 是一场苦涩但有意思的修行](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651036288&idx=1&sn=79a268f91beaba76c255f9ea613c7fcb&chksm=8c4c4f84bb3bc692cd39a8167930aa2f2687619d9b0766ead39520d42a428e4de7c803535049&mpshare=1&scene=23&srcid=&sharer_sharetime=1587269418844&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 ### 视频
 
@@ -349,3 +434,10 @@
 + [服务器免费用？速度撸一波羊毛！](https://mp.weixin.qq.com/s?__biz=MzIzMzg0ODE3OA==&mid=2247488956&idx=1&sn=2bf10c5f1d49fa74c85965cae8a37284&chksm=e8fe39a1df89b0b71e141301c4efaf67765fda8174f82eda4e2ee3969182fd15f8d87a172cae&mpshare=1&scene=23&srcid=&sharer_sharetime=1584152086252&sharer_shareid=ee3324a57034fb2f709c80c31b4d4fa6#rd)
 
 + [这代码写的跟狗屎一样！怎么优化？](https://maimai.cn/article/detail?fid=1327738628&efid=Vbe17mREH_Sdm6yqLlSjtw)
+
+
+
+## 必读
+
++ [图解算法系列](https://mp.weixin.qq.com/s/3eJNKDTZ5y5icMnfv9Is_w)
++ [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文）](https://zhuanlan.zhihu.com/p/91582909?utm_source=com.miui.notes&utm_medium=social&utm_oi=663284535672967168)
