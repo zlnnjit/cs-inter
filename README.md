@@ -93,7 +93,7 @@
 ### 经验论
 
 + [技术类问题](note/experience/技术类问题.md)
-+ [博客参考](note/experience/blog.md)
++ [博客参考](note/experience/收藏.md)
 
 
 
