@@ -1,8 +1,4 @@
-https://www.nowcoder.com/discuss/409450
-
-
-
-
+> https://www.nowcoder.com/discuss/409450
 
 最近打算换工作，对面是经验做一些总结，今后也是打算开启博客总结自己工作中遇到的一些问题分享给大家，算是一个开始吧！先说下整体面试下来的一些感受：
 

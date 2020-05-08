@@ -59,7 +59,7 @@
 ### Spring
 
 + **学习相关**
-  + [自己动手实现的Spring IOC和AOP(上篇)](note/spring/自己动手实现的Spring IOC和AOP(上篇).md)
+  + [自己动手实现的Spring IOC和AOP-上篇](note/spring/自己动手实现的Spring IOC和AOP(上篇).md)
 
 + **面试相关**
   + [Spring中Bean的作用域与生命周期](note/spring/Spring中Bean的作用域与生命周期.md)
